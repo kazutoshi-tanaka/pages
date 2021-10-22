@@ -1,0 +1,84 @@
+organization: OMRON SINIC X
+twitter: "@omron_sinicx"
+title: "Learning Robotic Contact Juggling"
+conference: IROS2021
+resources:
+  paper: https://www.researchgate.net/publication/353540358_Learning_Robotic_Contact_Juggling
+  code: null
+  video: https://www.youtube.com/embed/7YK79LZqOFY
+  blog: https://medium.com/sinicx/learning-robotic-contact-juggling-2bd87fe2ec9b
+description: A novel model-based learning method for learning robotic contact juggling.
+image: https://kazutoshi-tanaka.github.io/pages/smmrl/smmrl.png
+url: https://kazutoshi-tanaka.github.io/pages/smmrl/index.html
+# speakerdeck: null
+speakerdeck: 284678ddb019495a9fea601470d5f083
+authors:
+  - name: Kazutoshi Tanaka
+    affiliation: [1]
+    url: https://kazutoshi-tanaka.github.io/pages/index_eng.html
+    position: senior researcher
+  - name: Masashi Hamaya
+    affiliation: [1]
+    position: senior researcher
+    url: https://sites.google.com/view/masashihamaya/home
+  - name: Devwrat Joshi*
+    affiliation: [1]
+    url: null
+    position: intern
+  - name: Felix von Drigalski
+    affiliation: [1]
+    url: null
+    position: senior researcher
+  - name: Ryo Yonetani
+    affiliation: [1]
+    position: principal investigator
+    url: https://yonetaniryo.github.io/
+  - name: Takamitsu Matsubara
+    affiliation: [2]
+    url: https://sites.google.com/view/naist-robot-learning-en/home?authuser=0
+    position: associate professor, principal investigator
+  - name: Yoshihisa Ijiri
+    affiliation: [1]
+    url: null
+    position: research organizer
+contact_ids: [0] #=> 2nd author
+affiliations:
+  - OMRON SINIC X Corporation
+  - Nara Institute of Science and Technology
+meta:
+  - "* work done as an intern at OMRON SINIC X."
+bibtex: >
+  @inproceedings{tanaka2021learning,
+    title={Learning robotic contact juggling},
+    author={Tanaka, Kazutoshi and Hamaya, Masashi and Joshi, Devwrat and von Drigalski, Felix and Yonetani, Ryo and Matsubara, Takamitsu and Ijiri, Yoshihisa},
+    booktitle={International Conference on Intelligent Robots and Systems (IROS)},
+    year={2021}
+  }
+overview: >
+  Robotic juggling has been a fascinating task for the robotics community and also serving as a benchmark for evaluating agile and dynamic robotic manipulations.
+  In this work, we address contact juggling, a challenging juggling play that a performer stops, rolls, slides, and throws an object over the surface of their body, while keeping the object in and sometimes out of contact with the body, without holding it in their hands.
+  In particular, we are interested in a model-based reinforcement learning (MBRL) method of learning to play contact juggling from trial and error, without laborious physical modeling of complicated robot-ball interactions. 
+  To enable MBRL for robotic contact juggling, it is effective to model robot-ball interactions into a sequence of simple multiple models. 
+  Based on the above insight, we develop a novel MBRL method named switched multiple model-based reinforcement learning (S-MMRL), which is tailored to learning the state transition dynamics of the robot-ball interactions in robotic contact juggling. 
+  S-MMRL discovers the primitives of the robot-ball interactions by fitting a set of simple dynamics models to samples collected from the environment. 
+  At the same time, S-MMRL learns a switching model that takes the current state and action as input to determine which dynamics model to use for accurately representing the subsequent dynamics.
+  We confirm that our approach allows the robot to learn robotic contact juggling in a more efficient fashion compared to several existing methods in a realistic simulation.
+
+method: null
+  # - title: subsection1
+  #   image: method.png
+  #   text: null
+  # - title: subsection2
+  #   image: null
+  #   text: >
+  #     subsection body 2
+  # - title: null
+  #   image: method.png
+  #   text: >
+  #     subsection body 2
+results: null
+# results:
+#   - This is a result description text.
+#   - This is a result1 description text.
+#   - This is a result2 description text.
+#   - This is a result3 description text.
