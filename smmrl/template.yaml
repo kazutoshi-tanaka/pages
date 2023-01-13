@@ -5,7 +5,7 @@ conference: IROS2021
 resources:
   paper: https://www.researchgate.net/publication/353540358_Learning_Robotic_Contact_Juggling
   code: null
-  video: https://www.youtube.com/embed/7YK79LZqOFY
+  video: https://www.youtube.com/embed/PisA8yIvSj0
   blog: https://medium.com/sinicx/learning-robotic-contact-juggling-2bd87fe2ec9b
 description: A novel model-based learning method for learning robotic contact juggling.
 image: https://kazutoshi-tanaka.github.io/pages/smmrl/smmrl.png
