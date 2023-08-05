@@ -309,110 +309,376 @@ article:
     publisher: "Taylor & Francis"
     doi: 10.1080/01691864.2013.876936
 
-<h3>国際学会 (査読付き)</h3>
-<ol>
-  <li>
-    Robotic Powder Grinding with a Soft Jig for Laboratory Automation in Material Science,
-    Yusaku Nakajima, Masashi Hamaya, Yuta Suzuki, Takafumi Hawai, Felix von Drigalski, Kazutoshi Tanaka, Yoshitaka Ushiku, Kanta Ono,
-    IEEE/RSJ International Conference on Intelligent Robots and Systems, 2022.
-  </li> 
-  <li>
-    Quasistatic contact-rich manipulation via linear complementarity quadratic programming,
-    Sotaro Katayama, Tatsunori Taniai, Kazutoshi Tanaka, 
-    IEEE/RSJ International Conference on Intelligent Robots and Systems, 2022.
-    <a href="https://arxiv.org/abs/2210.13908">[ArXiv]</a>
-  </li> 
-  <li>
-    Iterative Backpropagation Disturbance Observer with Forward Dynamics Model, Takayuki Murooka, Masashi Hamaya, Felix von Drigalski, Kazutoshi Tanaka, Yoshihisa Ijiri, IEEE International Conference on Automation Science and Engineering, 2021. 
-    <a href="https://www.researchgate.net/publication/355093690_Iterative_Backpropagation_Disturbance_Observer_with_Forward_Dynamics_Model">[Paper]</a>
-  </li> 
-  <li>
-    Iterative Backpropagation Disturbance Observer with Forward Dynamics Model, Takayuki Murooka, Masashi Hamaya, Felix von Drigalski, Kazutoshi Tanaka, Yoshihisa Ijiri, IEEE International Conference on Automation Science and Engineering, 2021. 
-    <a href="https://www.researchgate.net/publication/355093690_Iterative_Backpropagation_Disturbance_Observer_with_Forward_Dynamics_Model">[Paper]</a>
-  </li> 
-  <li>
-    Learning Robotic Contact Juggling, Kazutoshi Tanaka, Masashi Hamaya, Devwrat Joshi, Felix von Drigalski, Ryo Yonetani, Takamitsu Matsubara, and Yoshihisa Ijiri, IEEE/RSJ International Conference on Intelligent Robots and Systems, 2021.
-    <a href="https://www.researchgate.net/publication/353540358_Learning_Robotic_Contact_Juggling">[Paper]</a>
-  </li>
-  <li>
-    Precise Multi-Modal In-Hand Pose Estimation using Low-Precision Sensors for Robotic Assembly, Felix von Drigalski, Kennosuke Hayashi, Yifei Huang, Ryo Yonetani, Masashi Hamaya, Kazutoshi Tanaka, and Yoshihisa Ijiri, IEEE International Conference on Robotics and Automation, 2021.
-    <a href="https://www.researchgate.net/publication/355093696_Precise_Multi-Modal_In-Hand_Pose_Estimation_using_Low-Precision_Sensors_for_Robotic_Assembly">[Paper]</a>
-  </li>
-  <li>
-    An analytical diabolo model for robotic learning and control, Felix von Drigalski, Devwrat Joshi, Takayuki Murooka, Kazutoshi Tanaka, Masashi Hamaya, and Yoshihisa Ijiri, IEEE International Conference on Robotics and Automation, 2021.
-    <a href="https://www.youtube.com/watch?v=oS-9mCfKIeY">[YouTube]</a>
-    <a href="https://medium.com/sinicx/an-analytical-diabolo-model-for-robotic-learning-and-control-c8d8a8384d6d">[Blog(En)]</a>
-    <a href="https://speakerdeck.com/osx/an-analytical-diabolo-model-for-robotic-learning-and-control-icra-21">[Slide(En)]</a>
-    <a href="https://arxiv.org/abs/2011.09068">[ArXiv]</a>
-    <a href="https://arxiv.org/pdf/2011.09068.pdf">[Paper]</a>
-  </li>
-  <li>
-    TRANS-AM: Transfer Learning by Aggregating Dynamics Models for Soft Robotic Assembly, Kazutoshi Tanaka, Ryo Yonetani, Masashi Hamaya, Robert Lee, Felix von Drigalski, and Yoshihisa Ijiri, IEEE International Conference on Robotics and Automation, 2021.
-    <a href="https://youtu.be/nOr6o0hx3Kc">[YouTube]</a>
-    <a href="https://medium.com/sinicx/trans-am-transfer-learning-by-aggregating-dynamics-models-for-soft-robotic-assembly-53ef3451d066">[Blog(En)]</a>
-    <a href="https://speakerdeck.com/osx/trans-am-transfer-learning-by-aggregating-dynamics-models-for-soft-robotic-assembly-icra-21">[Slide(En)]</a>
-    <a href="https://kazutoshi-tanaka.github.io/pages/transam.html">[Project HP]</a>
-    <a href="https://kazutoshi-tanaka.github.io/pages/TRANS_AM_Transfer_Learning_by_Aggregating_Dynamics_Models.pdf">[Paper]</a>
-  </li>
-  <li>
-    EXI-Net: EXplicitly/Implicitly Conditioned Network for Multiple Environment Sim-to-Real Transfer, Takayuki Murooka, Masashi Hamaya, Felix von Drigalski, Kazutoshi Tanaka, Yoshihisa Ijiri, Conference on Robot Learning, November 2020.
-    <a href="https://www.researchgate.net/publication/344880557_EXI-Net_EXplicitlyImplicitly_Conditioned_Network_for_Multiple_Environment_Sim-to-Real_Transfer">[Paper]</a>
-  </li>
-  <li>
-    Learning Soft Robotic Assembly Strategies from Successful and Failed Demonstration, Masashi Hamaya, Felix von Drigalski, Takamitsu Matsubara, Kazutoshi Tanaka, Robert Lee, Chisato Nakashima, Yoshiya Shibata, Yoshihisa Ijiri, IEEE/RSJ International Conference on Intelligent Robots and Systems, 8309-8315, October 2020.
-    <a href="https://www.researchgate.net/publication/344880468_Learning_Soft_Robotic_Assembly_Strategies_from_Successful_and_Failed_Demonstrations">[Paper]</a>
-  </li>
-  <li>
-    A Compact, Cable-driven, Activatable Soft Wrist with Six Degrees of Freedom for Assembly Tasks, Kazutoshi Tanaka, Felix von Drigalski, Masashi Hamaya, Robert Lee, Chisato Nakashima, Yoshiya Shibata, Yoshihisa Ijiri, IEEE/RSJ International Conference on Intelligent Robots and Systems, 8752-8757, October 2020. 
-    <a href="https://youtu.be/9AXcXzhGlR0">[YouTube]</a>
-    <a href="https://www.researchgate.net/publication/344880345_A_Compact_Cable-driven_Activatable_Soft_Wrist_with_Six_Degrees_of_Freedom_for_Assembly_Tasks">[Paper]</a>
-  </li>
-  <li>
-    Contact-based in-hand pose estimation using Bayesian state estimation and particle filtering, Felix von Drigalski, Shohei Taniguchi, Robert Lee, Takamitsu Matsubara, Masashi Hamaya, Kazutoshi Tanaka, Yoshihisa Ijiri, IEEE International Conference on Robotics and Automation, 7294-7299, May 2020.
-    <a href="https://www.youtube.com/watch?v=WuGFJDbF0EY">[YouTube]</a>
-    <a href="https://medium.com/sinicx/what-is-in-hand-pose-estimation-f7fcede1f628">[Blog(En)]</a>
-    <a href="https://www.researchgate.net/publication/341833295_Contact-based_in-hand_pose_estimation_using_Bayesian_state_estimation_and_particle_filtering">[Paper]</a>
-  </li>
-  <li>
-    Learning Robotic Assembly Tasks with Lower Dimensional Systems by Leveraging Physical Softness and Environmental Constraints, Masashi Hamaya, Robert Lee, Kazutoshi Tanaka, Felix von Drigalski, Chisato Nakashima, Yoshiya Shibata, Yoshihisa Ijiri, IEEE International Conference on Robotics and Automation, 7747-7753, May 2020.
-    <a href="https://www.youtube.com/watch?v=Xwn7XQQPUAw">[YouTube]</a>
-    <a href="https://medium.com/sinicx/learning-soft-robotic-assembly-tasks-with-a-handful-of-trials-a40cf04f0c2c">[Blog(En)]</a>
-    <a href="https://www.researchgate.net/publication/341833371_Learning_Robotic_Assembly_Tasks_with_Lower_Dimensional_Systems_by_Leveraging_Physical_Softness_and_Environmental_Constraints">[Paper]</a>
-  </li>
-  <li>CONTROL OF PNEUMATIC CYLINDERS USING ITERATIVE LINEAR QUADRATIC REGULATOR WITH DEEP LOCAL LINEAR DYNAMICS FOR EXPLOSIVE MOTIONS, YUKI NAKAMURA, IZUMI KARINO, SHOTARO MORI, KAZUTOSHI TANAKA, SATOSHI NISHIKAWA, RYUMA NIIYAMA, YASUO KUNIYOSHI, The 22nd International Conference on Climbing and Walking Robots and Support Technologies for Mobile Machines, August 2019.</li>
-  <li>
-    Learning Multiple Tasks by Self-Goal-Setting Based on Self-Evaluation, Kazutoshi Tanaka, Izumi Karino, Hoshinori Kanazawa, Ryuma Niiyama, Yasuo Kuniyoshi, The 9th Joint IEEE International Conference on Development and Learning and on Epigenetic Robotics (Extended abstract), 93, August 2019.
-    <a href="https://www.researchgate.net/profile/Kazutoshi_Tanaka/publication/335320315_Learning_Multiple_Tasks_by_Self-Goal-Setting_Based_on_Self-Evaluation/links/5db7903c92851c81801154b3/Learning-Multiple-Tasks-by-Self-Goal-Setting-Based-on-Self-Evaluation.pdf">[Paper]</a>
-  </li>
-  <li>
-    Body of a high-speed anthropomorphic table-tennis robot with a linkage mechanism, Kazutoshi TANAKA, The 9th International Symposium on Adaptive Motion of Animals and Machines, B1, August 2019.
-    <a href="https://www.researchgate.net/publication/335320105_Body_of_a_high-speed_anthropomorphic_table-tennis_robot_with_a_linkage_mechanism">[Paper]</a>
-  </li>
-  <li>DETAILED FULL BODY MOTION ANALYSIS TECHNIQUE FOR HUMAN NEONATES AND INFANTS, Hoshinori KanazawaKazutoshi TanakaMasahiko Kawai, Yasuo Kuniyoshi, the World Confederation for Physical Therapy Congress, May 2019.</li>
-  <li>Early developmental change in inter-muscle sensorimotor modules of human infants: Preliminary results, Hoshinori Kanazawa, Yasunori Yamada, Kazutoshi Tanaka, Masahiko Kawai, Yasuo Kuniyoshi, Neural Control of Movement, April 2019.</li>
-  <li>
-    Switching Isotropic and Directional Exploration with Parameter Space Noise in Deep Reinforcement Learning, Izumi Karino, Kazutoshi Tanaka, Ryuma Niiyama, Yasuo Kuniyoshi, Arxiv, September, 2018.
-    <a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiY4Z7f6djqAhWCxosBHUoXDnAQFjAAegQINxAB&url=https%3A%2F%2Farxiv.org%2Fabs%2F1809.06570&usg=AOvVaw0CLziB6FhbsRODpiObV-Lt">[ArXiv]</a>
-  </li>
-  <li>Bilateral Teleoperation System for a Musculoskeletal Robot Arm using a Musculoskeletal Exoskeleton, Xi Chen, Satoshi Nishikawa, Kazutoshi Tanaka, Ryuma Niiyama, Yasuo Kuniyoshi, Proceedings of the 2017 IEEE International Conference on Robotics and Biomimetics, 2734-2739, December 2017.</li>
-  <li>
-    Humanoid robot performing jump-and-hit motions using structure-integrated pneumatic cable cylinders, Kazutoshi Tanaka, Satoshi Nishikawa, Ryuma Niiyama, Yasuo Kuniyoshi, IEEE-RAS International Conference on Humanoid Robots, 696-702, November 2017.
-    <a href="https://note.com/sports_robot/n/n47dc04f8add5">[Blog(Ja)]</a>
-    <a href="https://www.researchgate.net/profile/Kazutoshi_Tanaka/publication/321160106_Humanoid_robot_performing_jump-and-hit_motions_using_structure-integrated_pneumatic_cable_cylinders/links/5ed6ef5c299bf1c67d34c82a/Humanoid-robot-performing-jump-and-hit-motions-using-structure-integrated-pneumatic-cable-cylinders.pdf">[Paper]</a>
-    <a href="https://youtu.be/AHWflhBlX9A">[YouTube]</a>
-  </li>
-  <li>ADJUSTMENT OF PRESSURE IN ANTAGONISTIC JOINTS WITH PNEUMATIC ARTIFICIAL MUSCLES FOR RAPID REACTING MOTIONS, Kazutoshi Tanaka, Satoshi Nishikawa, Yasuo Kuniyoshi, International Conference on Climbing and Walking Robots and Support Technologies for Mobile Machines, 183-190, 2014.</li>
-  <li>Role of Vertical Component in Skillful Pushing Motion, Kazutoshi Tanaka, Kunihiho Ogata, Yasuo Kuniyoshi, Full-day workshop on Computational Techniques in Natural Motion Analysis and Reconstruction at IEEE International Conference on Robotics and Automation, May 2013. <a href="https://note.com/sports_robot/n/n1842ccdafc14">[Blog(Ja)]</a></li>
-  <li>
-    Transitional Buckling Model for Active Bending Effect in Pole Vault, Toshihiko Fukushima, Satoshi Nishikawa, Kazutoshi Tanaka, Yasuo Kuniyoshi, International Symposium on Adaptive Motion of Animals and Machines, March 2013.
-    <a href="http://www.isi.imi.i.u-tokyo.ac.jp/~fukushima/pub/amam2013.pdf">[Paper]</a>
-  </li>
-  <li>Angle-Dependent Moment Arm with Biased Pivot for Jumping from Various Squatting Positions, Satoshi Nishikawa, Kazutoshi Tanaka, Kazuya Shida, Ryuma Niiyama, Yasuo Kuniyoshi, International Symposium on Adaptive Motion of Animals and Machines, March 2013.</li>
-  <li>IMPROVEMENT OF ENERGY CONSUMPTION BY MOVEMENT OF CENTER OF ROTATION OF JOINT, Kazutoshi Tanaka, Satoshi Nishikawa, Yasuo Kuniyoshi, International Conference on Climbing and Walking Robots and Support Technologies for Mobile Machines, 273-280 2013.</li>
-  <li>Effect of preliminary motions on agile motions, Kazutoshi Tanaka, Satoshi Nishikawa, Yasuo Kuniyoshi, 2013 16TH INTERNATIONAL CONFERENCE ON ADVANCED ROBOTICS (ICAR) 2013.</li>
-</ol>
+# 国際学会 (査読付き)
+conference:
+  - title: "Twist Snake: Plastic table-top cable-driven robotic arm with all motors located at the base link"
+    author:
+      - Kazutoshi Tanaka
+      - Masashi Hamaya
+    conference: IEEE International Conference on Robotics and Automation (ICRA)
+    year: 2023
+    page: 7345-7351
+    city: London
+    country: United Kingdom
+    doi: 10.1109/ICRA48891.2023.10160995
+    url: "https://www.researchgate.net/publication/370658923_Twist_Snake_Plastic_table-top_cable-driven_robotic_arm_with_all_motors_located_at_the_base_link"
+    video: https://youtu.be/sjfoP8uSgYY
+  - title: "Learning Food Picking without Food: Fracture Anticipation by Breaking Reusable Fragile Objects" 
+    author: 
+      - Rinto Yagawa
+      - Reina Ishikawa
+      - Masashi Hamaya
+      - Kazutoshi Tanaka
+      - Atsushi Hashimoto
+      - Hideo Saito
+    conference: IEEE International Conference on Robotics and Automation (ICRA)
+    city: London
+    country: United Kingdom
+    year: 2023
+    page: 917-923
+    doi: 10.1109/ICRA48891.2023.10160405
+  - title: Robotic Powder Grinding with a Soft Jig for Laboratory Automation in Material Science
+    author:
+      - Yusaku Nakajima
+      - Masashi Hamaya
+      - Yuta Suzuki
+      - Takafumi Hawai
+      - Felix von Drigalski
+      - Kazutoshi Tanaka
+      - Yoshitaka Ushiku
+      - Kanta Ono
+    conference: IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+    year: 2022
+    city: Kyoto
+    country: Japan
+    page: 2320-2326
+    doi: 10.1109/IROS47612.2022.9981081
+  - title: Quasistatic contact-rich manipulation via linear complementarity quadratic programming
+    author: 
+      - Sotaro Katayama
+      - Tatsunori Taniai
+      - Kazutoshi Tanaka 
+    conference: IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+    year: 2022
+    city: Kyoto
+    country: Japan
+    page: 203-210 
+    doi: 10.1109/IROS47612.2022.9981498
+    url: https://arxiv.org/abs/2210.13908
+  - title: Iterative Backpropagation Disturbance Observer with Forward Dynamics Model
+    author:
+      - Takayuki Murooka
+      - Masashi Hamaya
+      - Felix von Drigalski
+      - Kazutoshi Tanaka
+      - Yoshihisa Ijiri
+    conference: IEEE International Conference on Automation Science and Engineering (CASE)
+    city: Lyon
+    country: France
+    year: 2021
+    page: 373-378
+    doi: 10.1109/CASE49439.2021.9551455
+    url: "https://www.researchgate.net/publication/355093690_Iterative_Backpropagation_Disturbance_Observer_with_Forward_Dynamics_Model"
+  - title: Learning Robotic Contact Juggling
+    author: 
+      - Kazutoshi Tanaka
+      - Masashi Hamaya
+      - Devwrat Joshi
+      - Felix von Drigalski
+      - Ryo Yonetani
+      - Takamitsu Matsubara
+      - Yoshihisa Ijiri
+    conference: IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+    city: Prague
+    country: Czech Republic
+    year: 2021
+    page: 958-964
+    doi: 10.1109/IROS51168.2021.9636790
+    url: "https://www.researchgate.net/publication/353540358_Learning_Robotic_Contact_Juggling"
+  - title: Precise Multi-Modal In-Hand Pose Estimation using Low-Precision Sensors for Robotic Assembly
+    author: 
+      - Felix von Drigalski
+      - Kennosuke Hayashi
+      - Yifei Huang
+      - Ryo Yonetani
+      - Masashi Hamaya
+      - Kazutoshi Tanaka
+      - Yoshihisa Ijiri
+    conference: IEEE International Conference on Robotics and Automation (ICRA)
+    city: Xi'an
+    country: China
+    year: 2021
+    page: pp. 968-974
+    doi: 10.1109/ICRA48506.2021.9561222
+    url: "https://www.researchgate.net/publication/355093696_Precise_Multi-Modal_In-Hand_Pose_Estimation_using_Low-Precision_Sensors_for_Robotic_Assembly"
+  - title: An analytical diabolo model for robotic learning and control
+    author:
+      - Felix von Drigalski
+      - Devwrat Joshi
+      - Takayuki Murooka
+      - Kazutoshi Tanaka
+      - Masashi Hamaya
+      - Yoshihisa Ijiri
+    conference: IEEE International Conference on Robotics and Automation (ICRA)
+    city: Xi'an
+    country: China
+    year: 2021
+    page: 4055-4061
+    doi: 10.1109/ICRA48506.2021.9561578
+    video: "https://www.youtube.com/watch?v=oS-9mCfKIeY"
+    blog: "https://medium.com/sinicx/an-analytical-diabolo-model-for-robotic-learning-and-control-c8d8a8384d6d"
+    slide: "https://speakerdeck.com/osx/an-analytical-diabolo-model-for-robotic-learning-and-control-icra-21"
+    arxiv: "https://arxiv.org/abs/2011.09068"
+    url: "https://arxiv.org/pdf/2011.09068.pdf"
+  - title: "TRANS-AM: Transfer Learning by Aggregating Dynamics Models for Soft Robotic Assembly"
+    author:
+      - Kazutoshi Tanaka
+      - Ryo Yonetani
+      - Masashi Hamaya
+      - Robert Lee
+      - Felix von Drigalski
+      - Yoshihisa Ijiri
+    conference: IEEE International Conference on Robotics and Automation (ICRA)
+    city: Xi'an
+    country: China
+    year: 2021
+    page: 4627-4633
+    doi: 10.1109/ICRA48506.2021.9561081
+    video: "https://youtu.be/nOr6o0hx3Kc"
+    blog: "https://medium.com/sinicx/trans-am-transfer-learning-by-aggregating-dynamics-models-for-soft-robotic-assembly-53ef3451d066"
+    slide: "https://speakerdeck.com/osx/trans-am-transfer-learning-by-aggregating-dynamics-models-for-soft-robotic-assembly-icra-21"
+    hp: "https://kazutoshi-tanaka.github.io/pages/transam.html"
+    url: "https://kazutoshi-tanaka.github.io/pages/TRANS_AM_Transfer_Learning_by_Aggregating_Dynamics_Models.pdf"
+  - title: "EXI-Net: EXplicitly/Implicitly Conditioned Network for Multiple Environment Sim-to-Real Transfer"
+    author:
+      - Takayuki Murooka
+      - Masashi Hamaya
+      - Felix von Drigalski
+      - Kazutoshi Tanaka
+      - Yoshihisa Ijiri
+    conference: Conference on Robot Learning
+    month: November
+    year: 2020.
+    url: "https://www.researchgate.net/publication/344880557_EXI-Net_EXplicitlyImplicitly_Conditioned_Network_for_Multiple_Environment_Sim-to-Real_Transfer"
+  - title: Learning Soft Robotic Assembly Strategies from Successful and Failed Demonstration
+    author: Masashi Hamaya, Felix von Drigalski, Takamitsu Matsubara, Kazutoshi Tanaka, Robert Lee, Chisato Nakashima, Yoshiya Shibata, Yoshihisa Ijiri
+    conference: IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+    page: 8309-8315
+    year: 2020
+    month: October
+    city: Las Vegas
+    country: USA
+    page: 8309-8315
+    doi: 10.1109/IROS45743.2020.9341504
+    url: "https://www.researchgate.net/publication/344880468_Learning_Soft_Robotic_Assembly_Strategies_from_Successful_and_Failed_Demonstrations"
+  - title: A Compact, Cable-driven, Activatable Soft Wrist with Six Degrees of Freedom for Assembly Tasks
+    author: 
+      - Felix von Drigalski
+      - Kazutoshi Tanaka
+      - Masashi Hamaya
+      - Robert Lee
+      - Chisato Nakashima
+      - Yoshiya Shibata
+      - Yoshihisa Ijiri
+    conference: IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+    page: 8752-8757 
+    year: 2020
+    month: October
+    city: Las Vegas
+    country: USA
+    video: https://youtu.be/i6sUbNYbT9s 
+    url: https://www.researchgate.net/publication/344880345_A_Compact_Cable-driven_Activatable_Soft_Wrist_with_Six_Degrees_of_Freedom_for_Assembly_Tasks 
+  - title: Contact-based in-hand pose estimation using Bayesian state estimation and particle filtering
+    author: 
+      - Felix von Drigalski
+      - Shohei Taniguchi
+      - Robert Lee
+      - Takamitsu Matsubara
+      - Masashi Hamaya
+      - Kazutoshi Tanaka
+      - Yoshihisa Ijiri
+    conference: IEEE International Conference on Robotics and Automation
+    page: 7294-7299
+    year: 2020
+    month: May
+    city: Paris
+    country: France
+    doi: 10.1109/ICRA40945.2020.9196640
+    blog: "https://medium.com/sinicx/what-is-in-hand-pose-estimation-f7fcede1f628"
+    video: "https://www.youtube.com/watch?v=WuGFJDbF0EY"
+    url: "https://www.researchgate.net/publication/341833295_Contact-based_in-hand_pose_estimation_using_Bayesian_state_estimation_and_particle_filtering"
+  - title: Learning Robotic Assembly Tasks with Lower Dimensional Systems by Leveraging Physical Softness and Environmental Constraints
+    author: 
+      - Masashi Hamaya
+      - Robert Lee
+      - Kazutoshi Tanaka
+      - Felix von Drigalski
+      - Chisato Nakashima
+      - Yoshiya Shibata
+      - Yoshihisa Ijiri
+    conference: IEEE International Conference on Robotics and Automation
+    page: 7747-7753
+    year: 2020
+    month: May
+    city: Paris
+    country: France
+    blog: "https://medium.com/sinicx/learning-soft-robotic-assembly-tasks-with-a-handful-of-trials-a40cf04f0c2c"
+    url: "https://www.researchgate.net/publication/341833371_Learning_Robotic_Assembly_Tasks_with_Lower_Dimensional_Systems_by_Leveraging_Physical_Softness_and_Environmental_Constraints"
+    video: "https://www.youtube.com/watch?v=Xwn7XQQPUAw"
+  - title: Control of Pneumatic Cylinders using Iterative Linear Quadratic Regulator with Deep Local Linear Dynamics for Explosive Motions
+    author:
+      - Yuki Nakamura
+      - Izumi Karino
+      - Shotaro Mori
+      - Kazutoshi Tanaka
+      - Satoshi Nishikawa
+      - Ryuma Niiyama
+      - Yasuo Kuniyoshi
+    conference: The International Conference on Climbing and Walking Robots and Support Technologies for Mobile Machines (CLAWAR)
+    page: 125-132 
+    year: 2019
+    month: August
+  - title: Body of a high-speed anthropomorphic table-tennis robot with a linkage mechanism
+    author: 
+      - Kazutoshi TANAKA
+    conference: The International Symposium on Adaptive Motion of Animals and Machines
+    year: 2019
+    month: August
+    city: Lausanne
+    country: Switzerland
+    url: "https://www.researchgate.net/publication/335320105_Body_of_a_high-speed_anthropomorphic_table-tennis_robot_with_a_linkage_mechanism"
+  - title: DETAILED FULL BODY MOTION ANALYSIS TECHNIQUE FOR HUMAN NEONATES AND INFANTS
+    author: 
+      - Hoshinori Kanazawa
+      - Kazutoshi Tanaka
+      - Masahiko Kawai
+      - Yasuo Kuniyoshi
+    conference: the World Confederation for Physical Therapy Congress
+    year: 2019
+    month: May
+  - title: "Early developmental change in inter-muscle sensorimotor modules of human infants: Preliminary results"
+    author: 
+      - Hoshinori Kanazawa
+      - Yasunori Yamada
+      - Kazutoshi Tanaka
+      - Masahiko Kawai 
+      - Yasuo Kuniyoshi
+    conference: Neural Control of Movement
+    year: 2019
+    month: April
+  - title: Bilateral Teleoperation System for a Musculoskeletal Robot Arm using a Musculoskeletal Exoskeleton
+    author: 
+      - Xi Chen
+      - Satoshi Nishikawa
+      - Kazutoshi Tanaka
+      - Ryuma Niiyama, 
+      - Yasuo Kuniyoshi
+    conference: IEEE International Conference on Robotics and Biomimetics
+    page: 2734-2739
+    year: 2017
+    month: December
+    doi: 10.1109/ROBIO.2017.8324833 
+  - title: Humanoid robot performing jump-and-hit motions using structure-integrated pneumatic cable cylinders
+    author: 
+      - Kazutoshi Tanaka
+      - Satoshi Nishikawa
+      - Ryuma Niiyama
+      - Yasuo Kuniyoshi
+    conference: IEEE-RAS International Conference on Humanoid Robots
+    page: 696-702
+    year: 2017
+    month: November
+    city: Birmingham
+    country: UK
+    doi: 10.1109/HUMANOIDS.2017.8246948
+    blog_ja: "https://note.com/sports_robot/n/n47dc04f8add5" 
+    url: "https://www.researchgate.net/profile/Kazutoshi_Tanaka/publication/321160106_Humanoid_robot_performing_jump-and-hit_motions_using_structure-integrated_pneumatic_cable_cylinders/links/5ed6ef5c299bf1c67d34c82a/Humanoid-robot-performing-jump-and-hit-motions-using-structure-integrated-pneumatic-cable-cylinders.pdf"
+    video: "https://youtu.be/AHWflhBlX9A"
+  - title: ADJUSTMENT OF PRESSURE IN ANTAGONISTIC JOINTS WITH PNEUMATIC ARTIFICIAL MUSCLES FOR RAPID REACTING MOTIONS
+    author: 
+      - Kazutoshi Tanaka
+      - Satoshi Nishikawa 
+      - Yasuo Kuniyoshi
+    conference: International Conference on Climbing and Walking Robots and Support Technologies for Mobile Machines
+    page: 183-190
+    year: 2014
+  - title: Transitional Buckling Model for Active Bending Effect in Pole Vault
+    author: 
+      - Toshihiko Fukushima
+      - Satoshi Nishikawa
+      - Kazutoshi Tanaka
+      - Yasuo Kuniyoshi
+    conference: International Symposium on Adaptive Motion of Animals and Machines (AMAM)
+    page:
+    year: 2013
+    month: May
+    blog: 
+    url: "http://www.isi.imi.i.u-tokyo.ac.jp/~fukushima/pub/amam2013.pdf" 
+  - title: Angle-Dependent Moment Arm with Biased Pivot for Jumping from Various Squatting Positions
+    author: 
+      - Satoshi Nishikawa
+      - Kazutoshi Tanaka
+      - Kazuya Shida
+      - Ryuma Niiyama
+      - Yasuo Kuniyoshi
+    conference: International Symposium on Adaptive Motion of Animals and Machines (AMAM)
+    year: 2013
+    month: March
+  - title: IMPROVEMENT OF ENERGY CONSUMPTION BY MOVEMENT OF CENTER OF ROTATION OF JOINT
+    author: 
+      - Kazutoshi Tanaka
+      - Satoshi Nishikawa
+      - Yasuo Kuniyoshi
+    conference: International Conference on Climbing and Walking Robots and Support Technologies for Mobile Machines (CLAWAR)
+    page: 273-280
+    year: 2013
+  - title: Effect of preliminary motions on agile motions
+    author: 
+      - Kazutoshi Tanaka
+      - Satoshi Nishikawa
+      - Yasuo Kuniyoshi
+    conference: International Conference on Advanced Robotics (ICAR
+    city: Montevideo
+    country: Uruguay
+    year: 2013
+    page: 1-6
+    doi: 10.1109/ICAR.2013.6766534
 
-<!-- <h3>国際学会 (査読無し、ワークショップ)</h3>
+# 国際学会 (査読無し、ワークショップ)
+misc_en:
+  - title: Learning Multiple Tasks by Self-Goal-Setting Based on Self-Evaluation
+    author:
+      - Kazutoshi Tanaka
+      - Izumi Karino
+      - Hoshinori Kanazawa
+      - Ryuma Niiyama
+      - Yasuo Kuniyoshi
+    conference: The Joint IEEE International Conference on Development and Learning and on Epigenetic Robotics (Extended abstract)
+    year: 2019
+    month: August 
+    url: "https://www.researchgate.net/profile/Kazutoshi_Tanaka/publication/335320315_Learning_Multiple_Tasks_by_Self-Goal-Setting_Based_on_Self-Evaluation/links/5db7903c92851c81801154b3/Learning-Multiple-Tasks-by-Self-Goal-Setting-Based-on-Self-Evaluation.pdf"
+  - title: Switching Isotropic and Directional Exploration with Parameter Space Noise in Deep Reinforcement Learning
+    author:
+      - Izumi Karino
+      - Kazutoshi Tanaka
+      - Ryuma Niiyama
+      - Yasuo Kuniyoshi
+    arxiv: Arxiv
+    month: September
+    year: 2018
+    url: https://arxiv.org/abs/1809.06570
+  - title: Role of Vertical Component in Skillful Pushing Motion
+    author:
+      - Kazutoshi Tanaka
+      - Kunihiho Ogata
+      - Yasuo Kuniyoshi
+    conference: Full-day workshop on Computational Techniques in Natural Motion Analysis and Reconstruction at IEEE International Conference on Robotics and Automation
+    month: May
+    year: 2013
+    blog_ja: "https://note.com/sports_robot/n/n1842ccdafc14"
+
+
+
 <ol>
 <li>Kuniaki Saito, Yusuke Mukuta, Yoshitaka Ushiku, Tatsuya Harada. Deep Modality Invariant Adversarial Network for Shared Representation Learning. The 16th International Conference on Computer Vision Workshop on Transferring and Adapting Source Knowledge in Computer Vision (<span class="conf">ICCV</span>, Workshop), 2017.</li>
 <li>Yusuke Mukuta, Yoshitaka Ushiku, Tatsuya Harada. Spatial-Temporal Weighted Pyramid using Spatial Orthogonal Pooling. The 16th International Conference on Computer Vision Workshop on Compact and Efficient Feature Representation and Learning in Computer Vision (<span class="conf">ICCV</span>, Workshop), 2017.</li>
@@ -485,7 +751,9 @@ article:
     物体操作を学習するロボットアームの空気圧腱駆動可変剛性手首, 田中一敏, 日本フルードパワーシステム学会 学会誌, 2023年1月.
   </li>
 </ol>
-  
+
+
+
 <!-- <h2>解説記事・書籍</h2>
 <ol>
 <li>【解説記事】牛久祥孝. 画像に関連した言語生成の取組み. 人工知能学会誌，Vol.34，No.4, pp.483-490，2019. </li>
