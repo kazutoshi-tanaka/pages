@@ -158,7 +158,7 @@ article:
     vol: 6
     no: 3
     page: 5557-5564
-    yaer: 2021
+    year: 2021
     publisher: IEEE
     url: https://ieeexplore.ieee.org/document/9420244
   - title: Robotic Learning from Advisory and Adversarial Interactions using a Soft Wrist
@@ -217,7 +217,8 @@ article:
     vol: 3
     no: 3
     url: http://www.isi.imi.i.u-tokyo.ac.jp/wp/wp-content/uploads/2018/07/Mori2018_BadmintonArm_RA-L.pdf
-    blog: https://note.com/sports_robot/n/n6aca8a8e4239
+    blog_ja: https://note.com/sports_robot/n/n6aca8a8e4239
+    year: 2018 
   - title: A musculoskeletal bipedal robot designed with angle-dependent moment arm for dynamic motion from multiple states
     author:
       - Satoshi Nishikawa
@@ -229,7 +230,7 @@ article:
     journal: Advanced Robotics
     vol: 28
     no: 7
-    pages: 487-496
+    page: 487-496
     year: 2014
     publisher: "Taylor & Francis"
     doi: 10.1080/01691864.2013.876936
@@ -602,7 +603,6 @@ misc_en:
     year: 2013
     blog_ja: "https://note.com/sports_robot/n/n1842ccdafc14"
 
-
 # 国内論文誌 (査読付き)
 article_ja:
   - title: "明示・暗示ダイナミクス変数を用いた多様な環境下での動作学習"
@@ -621,7 +621,26 @@ article_ja:
 
 # 国内学会 (査読無し)
 misc_ja:
-  - title:"インタラクティブなスポーツにおけるプレースタイルの変化 ～卓球の試合における得点パターンを用いた分析～"
+  - title: "定常1方向入力による差動式高頻度大出力駆動メカニズム"
+    author: 
+      - "高橋 知也"
+      - "渡辺 将広"
+      - "多田隈 建二郎"
+      - "田中 一敏"
+    conference: "日本ロボット学会学術講演会 (RSJ)"
+    year: 2023
+    month: 9
+  - title: 卓球映像からの打球の攻守推定
+    author:
+      - "楊 明哲"
+      - "橋本 敦史"
+      - "Jiaxin Ma"
+      - "本田 秀仁"
+      - "田中 一敏"
+    conference: "画像の認識・理解シンポジウム (MIRU)"
+    year: 2023
+    month: 8
+  - title: "インタラクティブなスポーツにおけるプレースタイルの変化 ～卓球の試合における得点パターンを用いた分析～"
     author:
       - "本田 秀仁"
       - "楊 明哲"
@@ -711,7 +730,7 @@ misc_ja:
       - "西川 鋭"
       - "新山 龍馬"
       - "國吉 康夫"
-    conference:"計測自動制御学会 システムインテグレーション部門講演会"
+    conference: "計測自動制御学会 システムインテグレーション部門講演会"
     year: 2016
     month: 12
   - title: 発達初期の自発運動に伴う全身運動感覚と神経学的構造の関連性
