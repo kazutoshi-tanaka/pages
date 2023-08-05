@@ -1,0 +1,571 @@
+# <!DOCTYPE html>
+# <html>
+# <head>
+#   <!-- Global site tag (gtag.js) - Google Analytics -->
+#   <script async src="https://www.googletagmanager.com/gtag/js?id=UA-172963756-1"></script>
+#   <script>
+#     window.dataLayer = window.dataLayer || [];
+#     function gtag(){dataLayer.push(arguments);}
+#     gtag('js', new Date());
+
+#     gtag('config', 'UA-172963756-1');
+#   </script>
+
+#   <title>Kazutoshi Tanaka's homepage</title>
+#   <meta charset="UTF8">
+#   <!-- <link rel="stylesheet" href="new.css"> -->
+#     <!-- <script async src="https://www.googletagmanager.com/gtag/js?id=UA-125103456-1"></script>
+#   <script>
+#   window.dataLayer = window.dataLayer || [];
+#   function gtag(){dataLayer.push(arguments);}
+#   gtag('js', new Date());
+
+#   gtag('config', 'UA-125103456-1');
+# </script> -->
+# <!-- <link rel="stylesheet" href="style.css">
+# <link rel="stylesheet" href="ushiku.css">
+# <link rel="shortcut icon" href="/assets/favicon.ico" type="image/vnd.microsoft.icon"/>
+# <link rel="icon" href="/assets/favicon.ico" type="image/vnd.microsoft.icon"/>
+#  -->
+# <link rel="stylesheet" href="https://fonts.xz.style/serve/inter.css">
+# <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@exampledev/new.css@1.1.2/new.min.css">
+# </head>
+# <body>
+
+# <!-- <div><a href="index.html">English</a>/Japanese</div> -->
+
+# <h1>田中 一敏</h1>
+
+# <!-- <div>
+# <img src="ushiku.jpg" width="540" height="360">
+# </div> -->
+
+# <h2>プロフィール</h2>
+
+# <div>
+#   <img src="SshlqA8t_400x400.jpg" width="200" height="200">
+# </div>
+
+# <div>
+#   <p>
+#     運動選手並に自ら育つヒト型スポーツロボットを作り、人間に理解された感じを与えるロボットを作ります。
+#   </p>
+# </div>
+
+# <iframe width="560" height="315" src="https://www.youtube.com/embed/Mvxwgkqsf34" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+  
+# <div>
+#   <iframe width="560" height="315" src="https://www.youtube.com/embed/rGh0_NPFXLE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+# </div>
+
+# <!-- <h2>定常的コンテンツ</h2>
+# <h3>講演資料</h3>
+# <iframe src="//www.slideshare.net/slideshow/embed_code/key/97gT959XSUp2M7" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
+
+# <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/YoshitakaUshiku/ss-57148161" title="画像キャプションの自動生成" target="_blank">画像キャプションの自動生成</a> </strong> from <strong><a target="_blank" href="//www.slideshare.net/YoshitakaUshiku">牛久 祥孝</a></strong> </div>
+
+# <iframe src="//www.slideshare.net/slideshow/embed_code/key/DROkd4XqzWRkJW" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
+
+# <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/YoshitakaUshiku/deep-learning-73499744" title="Deep Learning による視覚×言語融合の最前線" target="_blank">Deep Learning による視覚×言語融合の最前線</a> </strong> from <strong><a target="_blank" href="//www.slideshare.net/YoshitakaUshiku">牛久 祥孝</a></strong> </div>
+
+# <h3>小ネタ</h3>
+# <ul>
+# <li><a href="job.html">お仕事の依頼について</a></li>
+# <li><a href="how_to_write_references.html">参考文献の書き方</a></li>
+# </ul> -->
+
+# <div>
+# <h2>リンク・連絡先</h2>
+# <a href="https://twitter.com/sports_robots">Twitter</a>/
+# <a href="https://note.com/sports_robot">note</a>/
+# <a href="https://ja-jp.facebook.com/kazutoshi.tanaka.3">Facebook</a>/
+# <a href="https://jp.linkedin.com/in/sportsrobots">Linkedin</a>/
+# <a href="https://researchmap.jp/kazutoshi.tanaka">researchmap</a>/
+# <a href="https://scholar.google.co.jp/citations?user=gUSlTmsAAAAJ&hl=ja">Google Scholar</a>/
+# <a href="https://www.researchgate.net/profile/Kazutoshi_Tanaka">ReasearchGate</a>/
+#   (Mail) kazutoshi.tanaka(at)sinicx.com
+# </div>
+
+# <div>
+
+# 学歴
+education:
+  - day: 2011年3月
+    affiliation: 
+      - 大阪大学
+      - 工学部 
+      - 電子情報工学科 
+    event: 卒業
+  - day: 2013年3月
+    affiliation: 
+      - 東京大学
+      - 大学院情報理工学系研究科
+      - 知能機械情報学専攻 
+    event: 修士課程修了
+  - day: 2017年3月
+    affiliation: 
+      - 東京大学
+      - 大学院情報理工学系研究科
+      - 知能機械情報学専攻 
+    event: 博士課程修了 博士(情報理工学)
+
+# 職歴
+education:
+  - day: 2019年4月-現在
+    affiliation: 
+      - オムロンサイニックエックス株式会社
+      - Research Administrative Division
+    position: Senior Researcher
+  - day: 2017年4月-2019年3月
+    affiliation: 
+      - 東京大学
+      - 情報理工学系研究科 
+    position: 特任研究員
+
+# 委員・活動
+activity:
+  - day: 2019年4月-2020年3月
+    position: 日本ロボット学会 第37回日本ロボット学会学術講演会プログラム委員
+  - day: 2015年4月-2016年3月
+    position: 身体性認知科学と実世界応用に関する若手研究会 (ECSRA) 運営委員長
+  - day: 2013年4月-2016年3月
+    position: 身体性認知科学と実世界応用に関する若手研究会 (ECSRA) 運営委員
+
+# 論文
+# 国際論文誌（査読付き）
+article:
+  - title: "Learning by Breaking: Food Fracture Anticipation for Robotic Food Manipulation"
+    author: 
+      - Reina Ishikawa
+      - Masashi Hamaya
+      - Felix von Drigalski
+      - Kazutohi Tanaka
+      - Atsushi Hashimoto
+    journal: IEEE Access
+    vol: 10
+    page: 99321-99329
+    year: 2022
+    doi: 10.1109/ACCESS.2022.320749
+  - title: Open-ended movements structure sensorimotor information in early human development
+    author: 
+      - Hoshinori Kanazawa
+      - Yasunori Yamada
+      - Kazutoshi Tanaka
+      - Masahiko Kawai
+      - Fusako Niwa
+      - Kougoro Iwanaga
+      - Yasuo Kuniyoshi
+    journal: Proceedings of the National Academy of Sciences
+    vol: 120
+    no: 1
+    month: December
+    year: 2022
+    doi: 10.1073/pnas.2209953120
+    url: https://www.pnas.org/doi/10.1073/pnas.2209953120
+  - title: Uncertainty-Aware Manipulation Planning Using Gravity and Environment Geometry
+    author: 
+      - Felix von Drigalski
+      - Kazumi Kasaura
+      - Cristian C. Beltran-Hernandez
+      - Masashi Hamaya
+      - Kazutoshi Tanaka
+      - Takamitsu Matsubara 
+    journal: IEEE Robotics and Automation Letters
+    vol: 7
+    no: 4
+    page: 11942-11949
+    month: October
+    year: 2022
+    doi: 10.1109/LRA.2022.3207565
+    url: https://ieeexplore.ieee.org/abstract/document/9894673
+  - title: Continuum-Body-Pose Estimation From Partial Sensor Information Using Recurrent Neural Networks
+    author: 
+      - Kazutoshi Tanaka
+      - Yuna Minami
+      - Yuji Tokudome
+      - Katsuma Inoue
+      - Yasuo Kuniyoshi
+      - Kohei Nakajima 
+    journal: IEEE Robotics and Automation Letters
+    vol: 7
+    no: 4
+    page: 11244-11251
+    month: October
+    year: 2022
+    doi: 10.1109/LRA.2022.3199034
+    url: https://ieeexplore.ieee.org/document/9858009
+  - title: "Learning by Breaking: Food Fracture Anticipation for Robotic Food Manipulation"
+    author: 
+      - Reina Ishikawa
+      - Masashi Hamaya
+      - Felix von Drigalski
+      - Kazutoshi Tanaka
+      - Atsushi Hashimoto
+    journal: IEEE Access
+    vol: 10
+    month: September
+    year: 2022
+    url: https://ieeexplore.ieee.org/document/9894412
+  - title: "Self-Organization of Remote Reservoirs: Transferring Computation to Spatially Distant Locations"
+    author: 
+      - Kazutoshi Tanaka
+      - Yuji Tokudome
+      - Yuna Minami
+      - Satoko Honda
+      - Toshiki Nakajima
+      - Kuniharu Takei
+      - Kohei Nakajima
+    journal: Advanced Intelligent Systems
+    vol: 4
+    no: 3
+    page: 2100166
+    month: December
+    year: 2021
+    doi: https://doi.org/10.1002/aisy.202100166
+    url: https://onlinelibrary.wiley.com/doi/10.1002/aisy.202100166
+  - title: Immediate generation of jump-and-hit motions by a pneumatic humanoid robot using a lookup table of learned dynamics
+    author: 
+      - Kazutoshi Tanaka
+      - Satoshi Nishikawa
+      - Ryuma Niiyama
+      - Yasuo Kuniyoshi
+    journal:  IEEE Robotics and Automation Letters
+    vol: 6
+    no: 3
+    page: 5557-5564
+    yaer: 2021
+    publisher: IEEE
+    url: https://ieeexplore.ieee.org/document/9420244
+  - title: Robotic Learning from Advisory and Adversarial Interactions using a Soft Wrist
+    author: 
+      - Masashi Hamaya
+      - Kazutohi Tanaka
+      - Yoshiya Shibata
+      - Felix von Drigalski
+      - Chisato Nakashima
+      - Yoshihisa Ijiri
+    journal: IEEE Robotics and Automation Letters
+    vol: 6
+    no: 2
+    page: 3878-3885
+    month: April
+    year: 2021
+    doi: 10.1109/LRA.2021.3067232
+    url: https://ieeexplore.ieee.org/document/9381639
+  - title: "Flapping-Wing Dynamics as a Natural Detector of Wind Direction"
+    author: 
+      - Kazutoshi Tanaka
+      - Shih-Hsin Yang
+      - Yuji Tokudome
+      - Yuna Minami
+      - Yuyao Lu
+      - Takayuki Arie
+      - Seiji Akita
+      - Kuniharu Takei
+      - Kohei Nakajima
+    journal: Advanced Intelligent Systems
+    page: 2000174
+    month: November
+    year: 2020
+    url: https://onlinelibrary.wiley.com/doi/10.1002/aisy.202000174
+  - title: High-Speed Humanoid Robot Arm for Badminton Using Pneumatic-Electric Hybrid Actuators
+    author: 
+      - Shotaro Mori
+      - Kazutoshi Tanaka
+      - Satoshi Nishikawa
+      - Ryuma Niiyama
+      - Yasuo Kuniyoshi
+    journal: IEEE Robotics and Automation Letters
+    vol: 4
+    no: 4
+    page: 3601-3608
+    month: October
+    year: 2019
+  - title: High-Speed and Lightweight Humanoid Robot Arm for a Skillful Badminton Robot
+    author: 
+      - Shotaro Mori
+      - Kazutoshi Tanaka
+      - Satoshi Nishikawa
+      - Ryuma Niiyama
+      - Yasuo Kuniyoshi
+    journal: IEEE Robotics and Automation Letters
+    vol: 3
+    no: 3
+    url: http://www.isi.imi.i.u-tokyo.ac.jp/wp/wp-content/uploads/2018/07/Mori2018_BadmintonArm_RA-L.pdf
+    blog: https://note.com/sports_robot/n/n6aca8a8e4239
+  - title: A musculoskeletal bipedal robot designed with angle-dependent moment arm for dynamic motion from multiple states
+    author:
+      - Satoshi Nishikawa
+      - Kazutoshi Tanaka
+      - Kazuya Shida
+      - Toshihiko Fukushima
+      - Ryuma Niiyama
+      - Yasuo Kuniyoshi
+    journal: Advanced Robotics
+    vol: 28
+    no: 7
+    pages: 487-496
+    year: 2014
+    publisher: "Taylor & Francis"
+    doi: 10.1080/01691864.2013.876936
+
+<h3>国際学会 (査読付き)</h3>
+<ol>
+  <li>
+    Robotic Powder Grinding with a Soft Jig for Laboratory Automation in Material Science,
+    Yusaku Nakajima, Masashi Hamaya, Yuta Suzuki, Takafumi Hawai, Felix von Drigalski, Kazutoshi Tanaka, Yoshitaka Ushiku, Kanta Ono,
+    IEEE/RSJ International Conference on Intelligent Robots and Systems, 2022.
+  </li> 
+  <li>
+    Quasistatic contact-rich manipulation via linear complementarity quadratic programming,
+    Sotaro Katayama, Tatsunori Taniai, Kazutoshi Tanaka, 
+    IEEE/RSJ International Conference on Intelligent Robots and Systems, 2022.
+    <a href="https://arxiv.org/abs/2210.13908">[ArXiv]</a>
+  </li> 
+  <li>
+    Iterative Backpropagation Disturbance Observer with Forward Dynamics Model, Takayuki Murooka, Masashi Hamaya, Felix von Drigalski, Kazutoshi Tanaka, Yoshihisa Ijiri, IEEE International Conference on Automation Science and Engineering, 2021. 
+    <a href="https://www.researchgate.net/publication/355093690_Iterative_Backpropagation_Disturbance_Observer_with_Forward_Dynamics_Model">[Paper]</a>
+  </li> 
+  <li>
+    Iterative Backpropagation Disturbance Observer with Forward Dynamics Model, Takayuki Murooka, Masashi Hamaya, Felix von Drigalski, Kazutoshi Tanaka, Yoshihisa Ijiri, IEEE International Conference on Automation Science and Engineering, 2021. 
+    <a href="https://www.researchgate.net/publication/355093690_Iterative_Backpropagation_Disturbance_Observer_with_Forward_Dynamics_Model">[Paper]</a>
+  </li> 
+  <li>
+    Learning Robotic Contact Juggling, Kazutoshi Tanaka, Masashi Hamaya, Devwrat Joshi, Felix von Drigalski, Ryo Yonetani, Takamitsu Matsubara, and Yoshihisa Ijiri, IEEE/RSJ International Conference on Intelligent Robots and Systems, 2021.
+    <a href="https://www.researchgate.net/publication/353540358_Learning_Robotic_Contact_Juggling">[Paper]</a>
+  </li>
+  <li>
+    Precise Multi-Modal In-Hand Pose Estimation using Low-Precision Sensors for Robotic Assembly, Felix von Drigalski, Kennosuke Hayashi, Yifei Huang, Ryo Yonetani, Masashi Hamaya, Kazutoshi Tanaka, and Yoshihisa Ijiri, IEEE International Conference on Robotics and Automation, 2021.
+    <a href="https://www.researchgate.net/publication/355093696_Precise_Multi-Modal_In-Hand_Pose_Estimation_using_Low-Precision_Sensors_for_Robotic_Assembly">[Paper]</a>
+  </li>
+  <li>
+    An analytical diabolo model for robotic learning and control, Felix von Drigalski, Devwrat Joshi, Takayuki Murooka, Kazutoshi Tanaka, Masashi Hamaya, and Yoshihisa Ijiri, IEEE International Conference on Robotics and Automation, 2021.
+    <a href="https://www.youtube.com/watch?v=oS-9mCfKIeY">[YouTube]</a>
+    <a href="https://medium.com/sinicx/an-analytical-diabolo-model-for-robotic-learning-and-control-c8d8a8384d6d">[Blog(En)]</a>
+    <a href="https://speakerdeck.com/osx/an-analytical-diabolo-model-for-robotic-learning-and-control-icra-21">[Slide(En)]</a>
+    <a href="https://arxiv.org/abs/2011.09068">[ArXiv]</a>
+    <a href="https://arxiv.org/pdf/2011.09068.pdf">[Paper]</a>
+  </li>
+  <li>
+    TRANS-AM: Transfer Learning by Aggregating Dynamics Models for Soft Robotic Assembly, Kazutoshi Tanaka, Ryo Yonetani, Masashi Hamaya, Robert Lee, Felix von Drigalski, and Yoshihisa Ijiri, IEEE International Conference on Robotics and Automation, 2021.
+    <a href="https://youtu.be/nOr6o0hx3Kc">[YouTube]</a>
+    <a href="https://medium.com/sinicx/trans-am-transfer-learning-by-aggregating-dynamics-models-for-soft-robotic-assembly-53ef3451d066">[Blog(En)]</a>
+    <a href="https://speakerdeck.com/osx/trans-am-transfer-learning-by-aggregating-dynamics-models-for-soft-robotic-assembly-icra-21">[Slide(En)]</a>
+    <a href="https://kazutoshi-tanaka.github.io/pages/transam.html">[Project HP]</a>
+    <a href="https://kazutoshi-tanaka.github.io/pages/TRANS_AM_Transfer_Learning_by_Aggregating_Dynamics_Models.pdf">[Paper]</a>
+  </li>
+  <li>
+    EXI-Net: EXplicitly/Implicitly Conditioned Network for Multiple Environment Sim-to-Real Transfer, Takayuki Murooka, Masashi Hamaya, Felix von Drigalski, Kazutoshi Tanaka, Yoshihisa Ijiri, Conference on Robot Learning, November 2020.
+    <a href="https://www.researchgate.net/publication/344880557_EXI-Net_EXplicitlyImplicitly_Conditioned_Network_for_Multiple_Environment_Sim-to-Real_Transfer">[Paper]</a>
+  </li>
+  <li>
+    Learning Soft Robotic Assembly Strategies from Successful and Failed Demonstration, Masashi Hamaya, Felix von Drigalski, Takamitsu Matsubara, Kazutoshi Tanaka, Robert Lee, Chisato Nakashima, Yoshiya Shibata, Yoshihisa Ijiri, IEEE/RSJ International Conference on Intelligent Robots and Systems, 8309-8315, October 2020.
+    <a href="https://www.researchgate.net/publication/344880468_Learning_Soft_Robotic_Assembly_Strategies_from_Successful_and_Failed_Demonstrations">[Paper]</a>
+  </li>
+  <li>
+    A Compact, Cable-driven, Activatable Soft Wrist with Six Degrees of Freedom for Assembly Tasks, Kazutoshi Tanaka, Felix von Drigalski, Masashi Hamaya, Robert Lee, Chisato Nakashima, Yoshiya Shibata, Yoshihisa Ijiri, IEEE/RSJ International Conference on Intelligent Robots and Systems, 8752-8757, October 2020. 
+    <a href="https://youtu.be/9AXcXzhGlR0">[YouTube]</a>
+    <a href="https://www.researchgate.net/publication/344880345_A_Compact_Cable-driven_Activatable_Soft_Wrist_with_Six_Degrees_of_Freedom_for_Assembly_Tasks">[Paper]</a>
+  </li>
+  <li>
+    Contact-based in-hand pose estimation using Bayesian state estimation and particle filtering, Felix von Drigalski, Shohei Taniguchi, Robert Lee, Takamitsu Matsubara, Masashi Hamaya, Kazutoshi Tanaka, Yoshihisa Ijiri, IEEE International Conference on Robotics and Automation, 7294-7299, May 2020.
+    <a href="https://www.youtube.com/watch?v=WuGFJDbF0EY">[YouTube]</a>
+    <a href="https://medium.com/sinicx/what-is-in-hand-pose-estimation-f7fcede1f628">[Blog(En)]</a>
+    <a href="https://www.researchgate.net/publication/341833295_Contact-based_in-hand_pose_estimation_using_Bayesian_state_estimation_and_particle_filtering">[Paper]</a>
+  </li>
+  <li>
+    Learning Robotic Assembly Tasks with Lower Dimensional Systems by Leveraging Physical Softness and Environmental Constraints, Masashi Hamaya, Robert Lee, Kazutoshi Tanaka, Felix von Drigalski, Chisato Nakashima, Yoshiya Shibata, Yoshihisa Ijiri, IEEE International Conference on Robotics and Automation, 7747-7753, May 2020.
+    <a href="https://www.youtube.com/watch?v=Xwn7XQQPUAw">[YouTube]</a>
+    <a href="https://medium.com/sinicx/learning-soft-robotic-assembly-tasks-with-a-handful-of-trials-a40cf04f0c2c">[Blog(En)]</a>
+    <a href="https://www.researchgate.net/publication/341833371_Learning_Robotic_Assembly_Tasks_with_Lower_Dimensional_Systems_by_Leveraging_Physical_Softness_and_Environmental_Constraints">[Paper]</a>
+  </li>
+  <li>CONTROL OF PNEUMATIC CYLINDERS USING ITERATIVE LINEAR QUADRATIC REGULATOR WITH DEEP LOCAL LINEAR DYNAMICS FOR EXPLOSIVE MOTIONS, YUKI NAKAMURA, IZUMI KARINO, SHOTARO MORI, KAZUTOSHI TANAKA, SATOSHI NISHIKAWA, RYUMA NIIYAMA, YASUO KUNIYOSHI, The 22nd International Conference on Climbing and Walking Robots and Support Technologies for Mobile Machines, August 2019.</li>
+  <li>
+    Learning Multiple Tasks by Self-Goal-Setting Based on Self-Evaluation, Kazutoshi Tanaka, Izumi Karino, Hoshinori Kanazawa, Ryuma Niiyama, Yasuo Kuniyoshi, The 9th Joint IEEE International Conference on Development and Learning and on Epigenetic Robotics (Extended abstract), 93, August 2019.
+    <a href="https://www.researchgate.net/profile/Kazutoshi_Tanaka/publication/335320315_Learning_Multiple_Tasks_by_Self-Goal-Setting_Based_on_Self-Evaluation/links/5db7903c92851c81801154b3/Learning-Multiple-Tasks-by-Self-Goal-Setting-Based-on-Self-Evaluation.pdf">[Paper]</a>
+  </li>
+  <li>
+    Body of a high-speed anthropomorphic table-tennis robot with a linkage mechanism, Kazutoshi TANAKA, The 9th International Symposium on Adaptive Motion of Animals and Machines, B1, August 2019.
+    <a href="https://www.researchgate.net/publication/335320105_Body_of_a_high-speed_anthropomorphic_table-tennis_robot_with_a_linkage_mechanism">[Paper]</a>
+  </li>
+  <li>DETAILED FULL BODY MOTION ANALYSIS TECHNIQUE FOR HUMAN NEONATES AND INFANTS, Hoshinori KanazawaKazutoshi TanakaMasahiko Kawai, Yasuo Kuniyoshi, the World Confederation for Physical Therapy Congress, May 2019.</li>
+  <li>Early developmental change in inter-muscle sensorimotor modules of human infants: Preliminary results, Hoshinori Kanazawa, Yasunori Yamada, Kazutoshi Tanaka, Masahiko Kawai, Yasuo Kuniyoshi, Neural Control of Movement, April 2019.</li>
+  <li>
+    Switching Isotropic and Directional Exploration with Parameter Space Noise in Deep Reinforcement Learning, Izumi Karino, Kazutoshi Tanaka, Ryuma Niiyama, Yasuo Kuniyoshi, Arxiv, September, 2018.
+    <a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiY4Z7f6djqAhWCxosBHUoXDnAQFjAAegQINxAB&url=https%3A%2F%2Farxiv.org%2Fabs%2F1809.06570&usg=AOvVaw0CLziB6FhbsRODpiObV-Lt">[ArXiv]</a>
+  </li>
+  <li>Bilateral Teleoperation System for a Musculoskeletal Robot Arm using a Musculoskeletal Exoskeleton, Xi Chen, Satoshi Nishikawa, Kazutoshi Tanaka, Ryuma Niiyama, Yasuo Kuniyoshi, Proceedings of the 2017 IEEE International Conference on Robotics and Biomimetics, 2734-2739, December 2017.</li>
+  <li>
+    Humanoid robot performing jump-and-hit motions using structure-integrated pneumatic cable cylinders, Kazutoshi Tanaka, Satoshi Nishikawa, Ryuma Niiyama, Yasuo Kuniyoshi, IEEE-RAS International Conference on Humanoid Robots, 696-702, November 2017.
+    <a href="https://note.com/sports_robot/n/n47dc04f8add5">[Blog(Ja)]</a>
+    <a href="https://www.researchgate.net/profile/Kazutoshi_Tanaka/publication/321160106_Humanoid_robot_performing_jump-and-hit_motions_using_structure-integrated_pneumatic_cable_cylinders/links/5ed6ef5c299bf1c67d34c82a/Humanoid-robot-performing-jump-and-hit-motions-using-structure-integrated-pneumatic-cable-cylinders.pdf">[Paper]</a>
+    <a href="https://youtu.be/AHWflhBlX9A">[YouTube]</a>
+  </li>
+  <li>ADJUSTMENT OF PRESSURE IN ANTAGONISTIC JOINTS WITH PNEUMATIC ARTIFICIAL MUSCLES FOR RAPID REACTING MOTIONS, Kazutoshi Tanaka, Satoshi Nishikawa, Yasuo Kuniyoshi, International Conference on Climbing and Walking Robots and Support Technologies for Mobile Machines, 183-190, 2014.</li>
+  <li>Role of Vertical Component in Skillful Pushing Motion, Kazutoshi Tanaka, Kunihiho Ogata, Yasuo Kuniyoshi, Full-day workshop on Computational Techniques in Natural Motion Analysis and Reconstruction at IEEE International Conference on Robotics and Automation, May 2013. <a href="https://note.com/sports_robot/n/n1842ccdafc14">[Blog(Ja)]</a></li>
+  <li>
+    Transitional Buckling Model for Active Bending Effect in Pole Vault, Toshihiko Fukushima, Satoshi Nishikawa, Kazutoshi Tanaka, Yasuo Kuniyoshi, International Symposium on Adaptive Motion of Animals and Machines, March 2013.
+    <a href="http://www.isi.imi.i.u-tokyo.ac.jp/~fukushima/pub/amam2013.pdf">[Paper]</a>
+  </li>
+  <li>Angle-Dependent Moment Arm with Biased Pivot for Jumping from Various Squatting Positions, Satoshi Nishikawa, Kazutoshi Tanaka, Kazuya Shida, Ryuma Niiyama, Yasuo Kuniyoshi, International Symposium on Adaptive Motion of Animals and Machines, March 2013.</li>
+  <li>IMPROVEMENT OF ENERGY CONSUMPTION BY MOVEMENT OF CENTER OF ROTATION OF JOINT, Kazutoshi Tanaka, Satoshi Nishikawa, Yasuo Kuniyoshi, International Conference on Climbing and Walking Robots and Support Technologies for Mobile Machines, 273-280 2013.</li>
+  <li>Effect of preliminary motions on agile motions, Kazutoshi Tanaka, Satoshi Nishikawa, Yasuo Kuniyoshi, 2013 16TH INTERNATIONAL CONFERENCE ON ADVANCED ROBOTICS (ICAR) 2013.</li>
+</ol>
+
+<!-- <h3>国際学会 (査読無し、ワークショップ)</h3>
+<ol>
+<li>Kuniaki Saito, Yusuke Mukuta, Yoshitaka Ushiku, Tatsuya Harada. Deep Modality Invariant Adversarial Network for Shared Representation Learning. The 16th International Conference on Computer Vision Workshop on Transferring and Adapting Source Knowledge in Computer Vision (<span class="conf">ICCV</span>, Workshop), 2017.</li>
+<li>Yusuke Mukuta, Yoshitaka Ushiku, Tatsuya Harada. Spatial-Temporal Weighted Pyramid using Spatial Orthogonal Pooling. The 16th International Conference on Computer Vision Workshop on Compact and Efficient Feature Representation and Learning in Computer Vision (<span class="conf">ICCV</span>, Workshop), 2017.</li>
+<li>Takumi Karasawa, Kohei Watanabe, Qishen Ha, Antonio Tejero-De-Pablos, Yoshitaka Ushiku, Tatsuya Harada. Multispectral Object Detection for Autonomous Vehicles. The 25th Annual ACM International Conference on Multimedia (<span class="conf">ACMMM</span>), 2017, (workshop).</li>
+<li>Yoshitaka Ushiku, Hiroshi Muraoka, Sho Inaba, Teppei Fujisawa, Koki Yasumoto, Naoyuki Gunji, Takayuki Higuchi, Yuko Hara, Tatsuya Harada, and Yasuo Kuniyoshi. ISI at ImageCLEF 2012: Scalable System for Image Annotation. the 3rd Conference and Labs of the Evaluation Forum (<span class="conf">CLEF</span> 2012), pp.1-12, 2012.</li>
+</ol> -->
+
+<!-- <h3>技術報告</h3>
+<ol>
+<li>Shoji Yamamoto, Antonio Tejero-de-Pablos, Yoshitaka Ushiku, and Tatsuya Harada. Conditional Video Generation Using Action-Appearance Captions. arXiv, 1812.01261, 2018.</li>
+<li>Andrew Shin, Yoshitaka Ushiku, and Tatsuya Harada. The Color of the Cat is Gray: 1 Million Full-Sentences Visual Question Answering (FSVQA). arXiv, 1609.06657, 2016.</li>
+</ol> -->
+
+<h3>国内論文誌 (査読付き)</h3>
+<ol>
+  <li>
+    明示・暗示ダイナミクス変数を用いた多様な環境下での動作学習, 室岡 貴之, 濱屋 政志, フェリックス フォン ドリガルスキ, 田中 一敏, 井尻 善久, 日本ロボット学会誌, 2021 年 39 巻 2 号 p. 177-180. （講演相当）
+    <a href="https://researchmap.jp/kazutoshi.tanaka/published_papers/30384164/attachment_file.pdf">[Paper]</a>
+  </li>
+</ol>
+
+<!-- <h3>国内学会 (査読付き)</h3>
+<ol>
+<li>Mayu Otani, Kazuhiro Ota, Yuta Nakashima, Esa Rahtu, Janne Heikkila, and Yoshitaka Ushiku. Collecting Relation-Aware Video Captions. 画像の認識・理解シンポジウム (MIRU), OS2A-6, 2019.</li>
+<li>Lisa Kawai, Yoshitaka Ushiku, and Tatsuya Harada. Facial Image Generation from Voice. 画像の認識・理解シンポジウム (MIRU), OS4-L3, 2018.</li>
+<li>Ryuei Murata, Akisato Kimura, Yoshitaka Ushiku, Takayoshi Yamashita, Yuji Yamauchi, and Hironobu Fujiyoshi. Online Learning Based on Mondrian Forests in Parallel Distributed Processing. 画像の認識・理解シンポジウム (MIRU), OS2-05, 2016.</li>
+<li>牛久祥孝, 原田達也, 國吉康夫. キーフレーズ推定と文法モデルによる画像説明文生成. 画像の認識・理解シンポジウム (MIRU), IS2-05(OS3-01), 2012. (長尾賞(最優秀賞)候補論文)</li>
+<li>牛久祥孝, 原田達也, 國吉康夫. 画像・文章間の類似度学習による画像説明文の自動生成. 画像の認識・理解シンポジウム (MIRU), pp.365-372, 2011. (<span class="mention">MIRU2011インタラクティブセッション賞</span>) [<a href="http://www.isi.imi.i.u-tokyo.ac.jp/publication/2011/MIRU2011_ushiku.pdf">pdf</a>]</li>
+<li>牛久祥孝, 原田達也, 國吉康夫. 画像・長文からの潜在空間獲得による画像間類似度の改善. 画像の 認識・理解シンポジウム (MIRU), pp.1153-1160, 2010. [<a href="http://www.isi.imi.i.u-tokyo.ac.jp/publication/2010/MIRU2010_ushiku.pdf">pdf</a>]</li>
+</ol> -->
+
+<h3>国内学会 (査読無し)</h3>
+<ol>
+  <li>インタラクティブなスポーツにおけるプレースタイルの変化 ～卓球の試合における得点パターンを用いた分析～, 本田 秀仁, 楊 明哲, Jiaxin Ma, 橋本 敦史, 田中 一敏, 白砂 大, HCGシンポジウム 2022年12月. </li>
+  <li>チェロ演奏における自動運指および運弓支援機構の検討, 伊東 健太, 上瀧 剛, 田中 一敏, 第135回音楽情報科学研究発表会（夏のシンポジウム）, 2022年9月. </li>
+  <li>媒質を介した遠隔物体の計算能力利用に関する予備的検討、田中 一敏, 南 友菜, 徳留 勇志, 本田 智子, 竹井 邦晴, 中嶋 浩平、日本ロボット学会学術講演会 2020年10月。</li>
+  <li>明示・暗示ダイナミクス変数を用いた多様な環境下での動作学習、室岡 貴之, 濱屋 政志, フォン ドリガルスキ フェリクス, 田中 一敏, 井尻 善久、日本ロボット学会学術講演会 2020年10月 。</li>
+  <li>ガウス過程回帰を用いた卓球ロボットと対戦する人間の打撃結果予測、田中 一敏, 金沢星慶, 中山雅宗, 佐々木勇輝, 八瀬哲志, 國吉康夫、第37回日本ロボット学会学術講演会、2019年9月。</li>
+  <li>空気圧ヒト型ロボットによる生成モデルを用いた即応的な跳躍打撃動作の生成法、田中一敏, 西川鋭, 新山龍馬, 國吉康夫、第35回日本ロボット学会学術講演会、2L1-02、2017年9月。研究奨励賞受賞。</li>
+  <li>跳躍打撃動作を行う構造一体型空気圧ケーブルシリンダロボットの開発、田中一敏, 西川鋭, 陳熙, 新山龍馬, 國吉康夫、日本機械学会ロボティクス・メカトロニクス講演会、2017年5月。
+    <a href="https://note.com/sports_robot/n/n47dc04f8add5">[Blog(Ja)]</a>
+  </li>
+  <li>バドミントンのための高加速・高速な手首を有する人型ロボットアームの開発、森翔太郎, 田中一敏, 西川鋭, 新山龍馬, 國吉康夫、日本機械学会ロボティクス・メカトロニクス講演会、2017年3月。
+    <a href="https://note.com/sports_robot/n/n6aca8a8e4239">[Blog(Ja)]</a>
+  </li>
+  <li>筋骨格ロボットの運動学習のためのHuman-in-the-loop教師あり学習システム、陳熙, 田中一敏, 西川鋭, 新山龍馬, 國吉康夫、計測自動制御学会 システムインテグレーション部門講演会、2016年12月。</li>
+  <li>発達初期の自発運動に伴う全身運動感覚と神経学的構造の関連性、金沢星慶, 山田康智, 田中一敏, 河合昌彦, 國吉康夫、発達神経科学学会、2016年11月。</li>
+  <li>発達初期の自発運動に伴う全身運動感覚と神経学的構造の関連性について、金沢星慶, 山田康智, 田中一敏, 河合昌彦, 國吉康夫、モーターコントロール研究会、2016年9月。</li>
+  <li>ロボットの即応的柔軟物使用のための単純モデルによる動作生成、新井悠介, 若田部亮, 田中一敏, 大村吉幸, 國吉康夫、日本機械学会ロボティクス・メカトロニクス講演会、2015年5月。</li>
+  <li>準備局面の拮抗的筋活動が踏み出しリーチングに与える効果、田中一敏, 西川鋭, 國吉康夫、日本ロボット学会学術講演会、2014年9月。</li>
+  <li>立位での巧緻動作における支持腕の肩外転角度が手先の停止安定性に与える影響、西川鋭, 田中一敏, 國吉康夫、日本バイオメカニクス学会大会、2014年9月。</li>
+  <li>確率的目標状態への遷移時間を最小化する準備動作、田中一敏, 西川鋭, 國吉康夫、日本機械学会ロボティクス・メカトロニクス講演会、2014年6月。</li>
+  <li>敏捷動作に先立つ構えの効果検討、田中一敏, 西川鋭, 國吉康夫、日本ロボット学会学術講演会、2013年9月。</li>
+  <li>敏捷動作生成に先立つ構え生成手法の検証、田中一敏, 西川鋭, 國吉康夫、創発システムシンポジウム、2013年8月。</li>
+  <li>
+    熟練者の運動解析に基づく筋骨格ロボットによる押し動作におけるスキルの再現、田中一敏, 西川鋭, 國吉康夫、日本機械学会ロボティクス・メカトロニクス講演会、2012年9月。
+    <a href="https://note.com/sports_robot/n/n1842ccdafc14">[Blog(Ja)]</a>
+  </li>
+  <li>両眼視差最小化に基づくボトムアップ型注視、田中一敏, 池本周平, 細田耕、日本機械学会ロボティクス・メカトロニクス講演会、2012年6月。</li>
+</ol>
+</div>
+
+<h2>解説</h2>
+<ol>
+  <li>
+    工場現場の組立応用に向けたソフトロボット運動学習, 濵屋 政志, 田中 一敏, フェリクス フォン ドリガルスキ, 井尻 善久, 日本ロボット学会誌, 39(7), 41-44, 2021.
+    <a href="https://researchmap.jp/kazutoshi.tanaka/published_papers/33928397/attachment_file.pdf">[PDF]</a>
+  </li>
+  <li>
+    物体操作を学習するロボットアームの空気圧腱駆動可変剛性手首, 田中一敏, 日本フルードパワーシステム学会 学会誌, 2023年1月.
+  </li>
+</ol>
+  
+<!-- <h2>解説記事・書籍</h2>
+<ol>
+<li>【解説記事】牛久祥孝. 画像に関連した言語生成の取組み. 人工知能学会誌，Vol.34，No.4, pp.483-490，2019. </li>
+<li>【解説記事】牛久祥孝. 画像キャプション生成とその派生タスク. 画像ラボ, Vol.30，No.4, pp.28-31，2019. </li>
+<li>【書籍】編著：中島秀之，浅田稔，橋田浩一，松原仁，山川宏，栗原聡，松尾豊. AI事典 第3版 「言語と画像や音声の相互変換」, 2019.
+<li>【解説記事】牛久祥孝. 画像/動画の高精度キャプション生成技術. 光学. Vol.47, No.12, pp.502-508, 2018.</li>
+<li>【解説記事ゲストエディタ】牛久祥孝. 視覚・言語融合の最前線. 映像情報メディア学会誌. Vol.72, No.9, 2018.</li>
+<li>【解説記事】牛久祥孝. 画像・動画キャプション生成. 映像情報メディア学会誌. Vol.72, No.9, 2018. (<a href="https://www.ite.or.jp/content/journal/message/">ベストオーサー</a>)</li>
+<li>【書籍】米谷竜, 斎藤英雄編著, 池畑諭, 牛久祥孝, 内山英昭, 内海ゆづ子, 小野峻佑, 片岡裕雄, 金崎朝子, 川西康友, 齋藤真樹, 櫻田健, 高橋康輔, 松井勇佑. コンピュータビジョン―広がる要素技術と応用. 未来へつなぐデジタルシリーズ, 37巻, 共立出版, 2018.
+<li>【解説記事】牛久祥孝. 私のブックマーク 視覚と自然言語の融合研究. 人工知能:人工知能学会誌. Vol.32, No.1, pp.136-143, 2016.</li>
+<li>【解説記事】牛久祥孝. ACM Multimedia 参加報告. 情報処理. Vol.56, No.3, p.286, 2015.</li>
+</ol> -->
+
+<div>
+<!-- <h2>基調講演・招待講演・講師</h2> -->
+<h2>講演</h2>
+<ol>
+  <li>運動再構成による準備動作原理の解明、 身体性認知科学と実世界応用に関する若手研究会、2014年8月。</li>
+  <li>計測・シミュレーション・ロボットを用いた人間の運動原理理解、Global Design Lecture & Leading Researcher Cafe、2014年8月。</li>
+  <li>熟練者のスキルを有する筋骨格ロボットによる押し動作の実現、身体性認知科学と実世界応用に関する若手研究会、2012年8月。</li>
+</ol>
+</div>
+
+<div>
+<h2>博士論文</h2>
+<ol>
+  <li>
+    即応的な跳躍打撃動作を行う空気圧ロボットの構成法, 田中 一敏, 東京大学, 2017年3月。
+    <a href="https://drive.google.com/file/d/1pQm5L9XaHz0FbFihHt2ZBe5d6L_3k2v6/view?usp=sharing">[PDF]</a>
+  </li>
+</ol>
+</div>  
+  
+<div>
+<h2>受賞</h2>
+<ol>
+<li>Poster Award at Self-Assembling Systems at ICRA 2020, July 2020.</li>
+<li>日本ロボット学会研究奨励賞、2018年10月。</li>
+</ol>
+</div>
+
+<div>
+<h2>メディア</h2>
+<ol>
+<li>探究の階段：ロボットとスポーツをする未来／田中一敏（オムロン サイニックエックス）、テレビ東京、2022.04.07。</li>
+<li>「オムロンの近未来デザイン 革新的技術を創出 (2) = 田中一敏 オムロン・サイニックエックス ロボティクスグループ シニアリサーチャー」、電波新聞、2022.03.10。</li>
+<li><a href="https://www.itmedia.co.jp/news/articles/2111/19/news031.html">東大、フライングレシーブをするヒト型ロボットを開発　成功率は80％</a>、 ITmedia NEWS、2021.11.19。</li>
+<li><a href="https://project.nikkeibp.co.jp/mirakoto/atcl/sports/h_vol25/">ほどよく手加減も？スポーツロボットが示す人の可能性</a>、 未来コトハジメ、2021.06.15。</li>
+<li><a href="https://innouvators.com/ja/article/10161/">日本古来の武道から人と気持ちの通じ合うスポーツロボットを作ることになるまで</a>、 InnoUvators、2020年03月。</li>
+<li><a href="https://wired.jp/2019/03/27/future-coexistence-of-robots-animals-and-nature-1/">ロボットとの共生は「やわらかさ」から始まる：「ロボット、動物、あらたなる自然との共生」（1）</a>、WIRED、vol.32、2019年03月。</li>
+</ol>
+</div>
+
+<div>
+<h2>競争的資金</h2>
+<ol>
+  <li>インタラクティブなスポーツの行動経済学：卓球を例とした分析フレームワークの構築、文部科学省 科学研究費助成事業・挑戦的研究（萌芽）本田 秀仁（代表）、田中 一敏（分担）</li>
+  <li><a href="https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-19K14936/">連続して跳躍と打撃を行うヒト型ロボットの開発</a>、文部科学省 科学研究費助成事業・若手研究、田中 一敏</li>
+  <li>自律的に創造した遊びを通じて成長する人間型知能の開発、公益財団法人中山隼雄科学技術文化財団 研究助成B、田中 一敏</li>
+  <li><a href="https://www.inno.go.jp/result/h30/adoption.php">人間と動きを読み合うヒト型卓球ロボット</a>、総務省 戦略的情報通信研究開発推進事業（SCOPE） 異能vation 破壊的な挑戦部門、田中 一敏</li>
+  <li>深層強化学習を用いた筋骨格系主体の発達的運動学習、栢森情報科学振興財団 研究助成事業、田中 一敏</li>
+  <li><a href="https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-17H06575/">新陳代謝を伴う超長時間訓練を通じて多様な運動を学習するソフトロボットの構成法</a>、文部科学省・日本学術振興会 研究活動スタート支援、田中 一敏</li>
+</ol>
+</div>
+
+<div>
+<h2>特許</h2>
+<ol>
+  <li>特願 2022-168713、田中 一敏, 谷合 竜典, 片山 想太郎、制御装置、制御方法、及び制御プログラム、2022年10月20日</li>
+  <li>特願 2022-119896、森 翔太郎, 田中 一敏、走行体、2022年7月27日</li>
+  <li>特願 2022-032176、濱屋政志、橋本敦志、田中一敏、石川玲奈、制御装置、制御方法、及びプログラム、2022年3月2日</li>
+  <li>特願 2021-109158、田中一敏、濱屋 政志、米谷 竜、フェリクス フォン ドリガル スキ、井尻 善久、学習及び制御装置、学習装置、制御装置、学習及び制御方法、学習方法、制御方法、学習及び制御プログラム、学習プログラム、及び制御プログラム、2021年6月30日</li>
+  <li>特願 2021-020049、濱屋 政志、田中一敏、オムロン株式会社、ロボットモデルの学習装置、ロボットモデルの機械学習方法、ロボットモデルの機械学習プログラム、ロボット制御装置、ロボット制御方法、及びロボット制御プログラム、2021年2月10日</li>
+  <li>特願 2020-146401、田中一敏、濱屋 政志、米谷 竜、オムロン株式会社、学習装置、学習方法、学習プログラム、制御装置、制御方法、及び制御プログラム、2020年8月31日</li>
+  <li>特願 2020-111710、田中 一敏、オムロン株式会社、ロボットの関節構造、2020年6月29日</li>
+  <li>特願 2020-094782、田中 一敏、井尻 善久、柴田 義也、濱屋 政志、フェリクス フォン ドリガル スキ、中島千智、オムロン株式会社、制御装置、ロボットシステム、およびロボットの制御方法、2020年5月29日</li>
+  <li>特願 2020-094695、田中 一敏、井尻 善久、柴田 義也、濱屋 政志、フェリクス フォン ドリガル スキ、中島千智、オムロン株式会社、ロボットの関節構造、2020年5月29日</li>
+  <li>特願 2020-044422、田中 一敏、井尻 善久、柴田 義也、濱屋 政志、フェリクス フォン ドリガル スキ、中島千智、オムロン株式会社、制御装置、ロボット、学習装置、ロボットシステム、および方法、2020年3月13日</li>
+</ol>
+</div>
+
+</body>
+</html>
