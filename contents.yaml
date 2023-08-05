@@ -1,92 +1,17 @@
-# <!DOCTYPE html>
-# <html>
-# <head>
-#   <!-- Global site tag (gtag.js) - Google Analytics -->
-#   <script async src="https://www.googletagmanager.com/gtag/js?id=UA-172963756-1"></script>
-#   <script>
-#     window.dataLayer = window.dataLayer || [];
-#     function gtag(){dataLayer.push(arguments);}
-#     gtag('js', new Date());
-
-#     gtag('config', 'UA-172963756-1');
-#   </script>
-
-#   <title>Kazutoshi Tanaka's homepage</title>
-#   <meta charset="UTF8">
-#   <!-- <link rel="stylesheet" href="new.css"> -->
-#     <!-- <script async src="https://www.googletagmanager.com/gtag/js?id=UA-125103456-1"></script>
-#   <script>
-#   window.dataLayer = window.dataLayer || [];
-#   function gtag(){dataLayer.push(arguments);}
-#   gtag('js', new Date());
-
-#   gtag('config', 'UA-125103456-1');
-# </script> -->
-# <!-- <link rel="stylesheet" href="style.css">
-# <link rel="stylesheet" href="ushiku.css">
-# <link rel="shortcut icon" href="/assets/favicon.ico" type="image/vnd.microsoft.icon"/>
-# <link rel="icon" href="/assets/favicon.ico" type="image/vnd.microsoft.icon"/>
-#  -->
-# <link rel="stylesheet" href="https://fonts.xz.style/serve/inter.css">
-# <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@exampledev/new.css@1.1.2/new.min.css">
-# </head>
-# <body>
-
-# <!-- <div><a href="index.html">English</a>/Japanese</div> -->
-
-# <h1>田中 一敏</h1>
-
-# <!-- <div>
-# <img src="ushiku.jpg" width="540" height="360">
-# </div> -->
-
-# <h2>プロフィール</h2>
-
-# <div>
-#   <img src="SshlqA8t_400x400.jpg" width="200" height="200">
-# </div>
-
-# <div>
-#   <p>
-#     運動選手並に自ら育つヒト型スポーツロボットを作り、人間に理解された感じを与えるロボットを作ります。
-#   </p>
-# </div>
-
-# <iframe width="560" height="315" src="https://www.youtube.com/embed/Mvxwgkqsf34" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
-  
-# <div>
-#   <iframe width="560" height="315" src="https://www.youtube.com/embed/rGh0_NPFXLE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-# </div>
-
-# <!-- <h2>定常的コンテンツ</h2>
-# <h3>講演資料</h3>
-# <iframe src="//www.slideshare.net/slideshow/embed_code/key/97gT959XSUp2M7" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
-
-# <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/YoshitakaUshiku/ss-57148161" title="画像キャプションの自動生成" target="_blank">画像キャプションの自動生成</a> </strong> from <strong><a target="_blank" href="//www.slideshare.net/YoshitakaUshiku">牛久 祥孝</a></strong> </div>
-
-# <iframe src="//www.slideshare.net/slideshow/embed_code/key/DROkd4XqzWRkJW" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
-
-# <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/YoshitakaUshiku/deep-learning-73499744" title="Deep Learning による視覚×言語融合の最前線" target="_blank">Deep Learning による視覚×言語融合の最前線</a> </strong> from <strong><a target="_blank" href="//www.slideshare.net/YoshitakaUshiku">牛久 祥孝</a></strong> </div>
-
-# <h3>小ネタ</h3>
-# <ul>
-# <li><a href="job.html">お仕事の依頼について</a></li>
-# <li><a href="how_to_write_references.html">参考文献の書き方</a></li>
-# </ul> -->
-
-# <div>
-# <h2>リンク・連絡先</h2>
-# <a href="https://twitter.com/sports_robots">Twitter</a>/
-# <a href="https://note.com/sports_robot">note</a>/
-# <a href="https://ja-jp.facebook.com/kazutoshi.tanaka.3">Facebook</a>/
-# <a href="https://jp.linkedin.com/in/sportsrobots">Linkedin</a>/
-# <a href="https://researchmap.jp/kazutoshi.tanaka">researchmap</a>/
-# <a href="https://scholar.google.co.jp/citations?user=gUSlTmsAAAAJ&hl=ja">Google Scholar</a>/
-# <a href="https://www.researchgate.net/profile/Kazutoshi_Tanaka">ReasearchGate</a>/
-#   (Mail) kazutoshi.tanaka(at)sinicx.com
-# </div>
-
-# <div>
+# リンク・連絡先
+link:
+  - service: Twitter
+    url: "https://twitter.com/sports_robots"
+  - service: note 
+    url: "https://note.com/sports_robot"
+  - service: Linkedin
+    url: "https://jp.linkedin.com/in/sportsrobots"
+  - service: researchmap
+    url: "https://researchmap.jp/kazutoshi.tanaka"
+  - service: Google Scholar
+    url: "https://scholar.google.co.jp/citations?user=gUSlTmsAAAAJ&hl=ja"
+  - service: ReasearchGate
+    url: "https://www.researchgate.net/profile/Kazutoshi_Tanaka"
 
 # 学歴
 education:
@@ -110,7 +35,7 @@ education:
     event: 博士課程修了 博士(情報理工学)
 
 # 職歴
-education:
+career:
   - day: 2019年4月-現在
     affiliation: 
       - オムロンサイニックエックス株式会社
@@ -678,162 +603,520 @@ misc_en:
     blog_ja: "https://note.com/sports_robot/n/n1842ccdafc14"
 
 
+# 国内論文誌 (査読付き)
+article_ja:
+  - title: "明示・暗示ダイナミクス変数を用いた多様な環境下での動作学習"
+    author: 
+      - "室岡 貴之"
+      - "濱屋 政志"
+      - "フェリックス フォン ドリガルスキ"
+      - "田中 一敏"
+      - "井尻 善久"
+    journal: "日本ロボット学会誌"
+    year: 2021
+    vol: 39
+    no: 2
+    page: 177-180
+    url: "https://researchmap.jp/kazutoshi.tanaka/published_papers/30384164/attachment_file.pdf"
 
-<ol>
-<li>Kuniaki Saito, Yusuke Mukuta, Yoshitaka Ushiku, Tatsuya Harada. Deep Modality Invariant Adversarial Network for Shared Representation Learning. The 16th International Conference on Computer Vision Workshop on Transferring and Adapting Source Knowledge in Computer Vision (<span class="conf">ICCV</span>, Workshop), 2017.</li>
-<li>Yusuke Mukuta, Yoshitaka Ushiku, Tatsuya Harada. Spatial-Temporal Weighted Pyramid using Spatial Orthogonal Pooling. The 16th International Conference on Computer Vision Workshop on Compact and Efficient Feature Representation and Learning in Computer Vision (<span class="conf">ICCV</span>, Workshop), 2017.</li>
-<li>Takumi Karasawa, Kohei Watanabe, Qishen Ha, Antonio Tejero-De-Pablos, Yoshitaka Ushiku, Tatsuya Harada. Multispectral Object Detection for Autonomous Vehicles. The 25th Annual ACM International Conference on Multimedia (<span class="conf">ACMMM</span>), 2017, (workshop).</li>
-<li>Yoshitaka Ushiku, Hiroshi Muraoka, Sho Inaba, Teppei Fujisawa, Koki Yasumoto, Naoyuki Gunji, Takayuki Higuchi, Yuko Hara, Tatsuya Harada, and Yasuo Kuniyoshi. ISI at ImageCLEF 2012: Scalable System for Image Annotation. the 3rd Conference and Labs of the Evaluation Forum (<span class="conf">CLEF</span> 2012), pp.1-12, 2012.</li>
-</ol> -->
+# 国内学会 (査読無し)
+misc_ja:
+  - title:"インタラクティブなスポーツにおけるプレースタイルの変化 ～卓球の試合における得点パターンを用いた分析～"
+    author:
+      - "本田 秀仁"
+      - "楊 明哲"
+      - "Jiaxin Ma"
+      - "橋本 敦史"
+      - "田中 一敏"
+      - "白砂 大" 
+    conference: HCGシンポジウム
+    year: 2022
+    month: 12
+  - title: チェロ演奏における自動運指および運弓支援機構の検討
+    author: 
+      - "伊東 健太"
+      - "上瀧 剛"
+      - "田中 一敏"
+    conference: 第135回音楽情報科学研究発表会 (夏のシンポジウム)
+    year: 2022
+    month: 9
+  - title: 媒質を介した遠隔物体の計算能力利用に関する予備的検討
+    author: 
+      - "田中 一敏"
+      - "南 友菜"
+      - "徳留 勇志"
+      - "本田 智子"
+      - "竹井 邦晴"
+      - "中嶋 浩平"
+    conference: 日本ロボット学会学術講演会
+    year: 2020
+    month: 10
+  - title: 明示・暗示ダイナミクス変数を用いた多様な環境下での動作学習
+    author: 
+      - "室岡 貴之"
+      - "濱屋 政志"
+      - "フォン ドリガルスキ フェリクス"
+      - "田中 一敏"
+      - "井尻 善久"
+    conference: 日本ロボット学会学術講演会
+    year: 2020
+    month: 10
+  - title: ガウス過程回帰を用いた卓球ロボットと対戦する人間の打撃結果予測
+    author: 
+      - "田中 一敏"
+      - "金沢 星慶"
+      - "中山 雅宗"
+      - "佐々木 勇輝"
+      - "八瀬 哲志"
+      - "國吉 康夫"
+    conference: 日本ロボット学会学術講演会
+    year: 2019
+    month: 9
+  - title: 空気圧ヒト型ロボットによる生成モデルを用いた即応的な跳躍打撃動作の生成法
+    author: 
+      - "田中 一敏"
+      - "西川 鋭"
+      - "新山 龍馬"
+      - "國吉 康夫"
+    conference: 日本ロボット学会学術講演会
+    year: 2017
+    month: 9
+    award: "日本ロボット学会 研究奨励賞"
+  - title: 跳躍打撃動作を行う構造一体型空気圧ケーブルシリンダロボットの開発
+    author: 
+      - "田中 一敏"
+      - "西川 鋭"
+      - "陳 熙"
+      - "新山 龍馬"
+      - "國吉 康夫"
+    conference: 日本機械学会ロボティクス・メカトロニクス講演会
+    year: 2017
+    month: 5
+    blog_ja: "https://note.com/sports_robot/n/n47dc04f8add5"
+  - title: バドミントンのための高加速・高速な手首を有する人型ロボットアームの開発
+    author: 
+      - "森 翔太郎"
+      - "田中 一敏"
+      - "西川 鋭"
+      - "新山 龍馬"
+      - "國吉 康夫"
+    conference: 日本機械学会ロボティクス・メカトロニクス講演会
+    year: 2017
+    month: 3
+    blog_ja: "https://note.com/sports_robot/n/n6aca8a8e4239"
+  - title: 筋骨格ロボットの運動学習のためのHuman-in-the-loop教師あり学習システム
+    author: 
+      - "陳 熙"
+      - "田中 一敏"
+      - "西川 鋭"
+      - "新山 龍馬"
+      - "國吉 康夫"
+    conference:"計測自動制御学会 システムインテグレーション部門講演会"
+    year: 2016
+    month: 12
+  - title: 発達初期の自発運動に伴う全身運動感覚と神経学的構造の関連性
+    author: 
+      - "金沢 星慶"
+      - "山田 康智"
+      - "田中 一敏"
+      - "河合 昌彦" 
+      - "國吉 康夫"
+    conference: "発達神経科学学会"
+    year: 2016
+    month: 11
+  - title: 発達初期の自発運動に伴う全身運動感覚と神経学的構造の関連性について
+    author: 
+      - "金沢 星慶"
+      - "山田 康智"
+      - "田中 一敏"
+      - "河合 昌彦" 
+      - "國吉 康夫"
+    conference: モーターコントロール研究会
+    year: 2016
+    month: 9
+  - title: ロボットの即応的柔軟物使用のための単純モデルによる動作生成
+    author: 
+      - "新井 悠介"
+      - "若田部 亮"
+      - "田中 一敏"
+      - "大村 吉幸"
+      - "國吉 康夫"
+    conference: 日本機械学会ロボティクス・メカトロニクス講演会
+    year: 2015
+    month: 5
+  - title: 準備局面の拮抗的筋活動が踏み出しリーチングに与える効果
+    author: 
+      - "田中 一敏"
+      - "西川 鋭"
+      - "國吉 康夫"
+    conference: 日本ロボット学会学術講演会
+    year: 2014
+    month: 9
+  - title: 立位での巧緻動作における支持腕の肩外転角度が手先の停止安定性に与える影響
+    author: 
+      - "西川 鋭"
+      - "田中 一敏"
+      - "國吉 康夫"
+    conference: 日本バイオメカニクス学会大会
+    year: 2014
+    month: 9
+  - title: 確率的目標状態への遷移時間を最小化する準備動作
+    author: 
+      - "田中 一敏"
+      - "西川 鋭"
+      - "國吉 康夫"
+    conference: 日本機械学会ロボティクス・メカトロニクス講演会
+    year: 2014
+    month: 6
+  - title: 敏捷動作に先立つ構えの効果検討
+    author: 
+      - "田中 一敏"
+      - "西川 鋭"
+      - "國吉 康夫"
+    conference: 日本ロボット学会学術講演会
+    year: 2013
+    month: 9
+  - title: 敏捷動作生成に先立つ構え生成手法の検証
+    author: 
+      - "田中 一敏"
+      - "西川 鋭"
+      - "國吉 康夫"
+    conference: 創発システムシンポジウム
+    year: 2013
+    month: 8
+  - title: 熟練者の運動解析に基づく筋骨格ロボットによる押し動作におけるスキルの再現
+    author: 
+      - "田中 一敏"
+      - "尾形 邦裕"
+      - "國吉 康夫"
+    conference: 日本機械学会ロボティクス・メカトロニクス講演会
+    year: 2012
+    month: 9
+    blog_ja: "https://note.com/sports_robot/n/n1842ccdafc14"
+  - title: 両眼視差最小化に基づくボトムアップ型注視
+    author: 
+      - "田中 一敏"
+      - "池本 周平" 
+      - "細田 耕"
+    conference: 日本機械学会ロボティクス・メカトロニクス講演会
+    year: 2012
+    month: 6
 
-<!-- <h3>技術報告</h3>
-<ol>
-<li>Shoji Yamamoto, Antonio Tejero-de-Pablos, Yoshitaka Ushiku, and Tatsuya Harada. Conditional Video Generation Using Action-Appearance Captions. arXiv, 1812.01261, 2018.</li>
-<li>Andrew Shin, Yoshitaka Ushiku, and Tatsuya Harada. The Color of the Cat is Gray: 1 Million Full-Sentences Visual Question Answering (FSVQA). arXiv, 1609.06657, 2016.</li>
-</ol> -->
+# 解説
+commentary:
+  - title: 物体操作を学習するロボットアームの空気圧腱駆動可変剛性手首
+    author: 
+      - "田中 一敏" 
+    journal: "日本フルードパワーシステム学会 学会誌"
+    year: 2023
+    month: 1
+  - title: 過去の学習経験を組み合わせて適応するロボット
+    author: 
+      - "田中 一敏"
+    journal: "OMRON TECHNICS"
+    year: 2022
+    month: 1
+    url: https://www.omron.com/jp/ja/technology/omrontechnics/2021/20211119-tanaka2.html
+  - title: "人のようにしなやかなロボット～ソフトロボット"
+    author: 
+      - "田中 一敏"
+    journal: "OMRON TECHNICS"
+    year: 2022
+    month: 1
+    url: https://www.omron.com/jp/ja/technology/omrontechnics/2021/20211119-tanaka.html 
+  - title: 工場現場の組立応用に向けたソフトロボット運動学習
+    author:
+      - "濵屋 政志"
+      - "田中 一敏"
+      - "フェリクス フォン ドリガルスキ" 
+      - "井尻 善久" 
+    conference: 日本ロボット学会誌
+    year: 2021
+    page: 41-44
+    vol: 39
+    no: 7 
+    month: 
+    url: "https://researchmap.jp/kazutoshi.tanaka/published_papers/33928397/attachment_file.pdf"
+    
+# 講演
+lecture:
+  - title: "深層学習を用いたロボット物体操作の応用事例 〜部品組立・食品把持・実験自動化〜"
+    event: "LabTech Talk vol.66"
+    year: 2022
+    month: 11
+  - title: 運動再構成による準備動作原理の解明 
+    event: 身体性認知科学と実世界応用に関する若手研究会
+    year: 2014
+    month: 8
+  - title: 計測・シミュレーション・ロボットを用いた人間の運動原理理解
+    event: "Global Design Lecture & Leading Researcher Cafe"
+    year: 2014
+    month: 8
+  - title: 熟練者のスキルを有する筋骨格ロボットによる押し動作の実現
+    event: 身体性認知科学と実世界応用に関する若手研究会
+    year: 2012
+    month: 8
 
-<h3>国内論文誌 (査読付き)</h3>
-<ol>
-  <li>
-    明示・暗示ダイナミクス変数を用いた多様な環境下での動作学習, 室岡 貴之, 濱屋 政志, フェリックス フォン ドリガルスキ, 田中 一敏, 井尻 善久, 日本ロボット学会誌, 2021 年 39 巻 2 号 p. 177-180. （講演相当）
-    <a href="https://researchmap.jp/kazutoshi.tanaka/published_papers/30384164/attachment_file.pdf">[Paper]</a>
-  </li>
-</ol>
+# 博士論文
+phd_theis:
+  - title: 即応的な跳躍打撃動作を行う空気圧ロボットの構成法
+    author: "田中 一敏"
+    journal: "東京大学"
+    year: 2017
+    month: 3
+    url: "https://drive.google.com/file/d/1pQm5L9XaHz0FbFihHt2ZBe5d6L_3k2v6/view?usp=sharing"
 
-<!-- <h3>国内学会 (査読付き)</h3>
-<ol>
-<li>Mayu Otani, Kazuhiro Ota, Yuta Nakashima, Esa Rahtu, Janne Heikkila, and Yoshitaka Ushiku. Collecting Relation-Aware Video Captions. 画像の認識・理解シンポジウム (MIRU), OS2A-6, 2019.</li>
-<li>Lisa Kawai, Yoshitaka Ushiku, and Tatsuya Harada. Facial Image Generation from Voice. 画像の認識・理解シンポジウム (MIRU), OS4-L3, 2018.</li>
-<li>Ryuei Murata, Akisato Kimura, Yoshitaka Ushiku, Takayoshi Yamashita, Yuji Yamauchi, and Hironobu Fujiyoshi. Online Learning Based on Mondrian Forests in Parallel Distributed Processing. 画像の認識・理解シンポジウム (MIRU), OS2-05, 2016.</li>
-<li>牛久祥孝, 原田達也, 國吉康夫. キーフレーズ推定と文法モデルによる画像説明文生成. 画像の認識・理解シンポジウム (MIRU), IS2-05(OS3-01), 2012. (長尾賞(最優秀賞)候補論文)</li>
-<li>牛久祥孝, 原田達也, 國吉康夫. 画像・文章間の類似度学習による画像説明文の自動生成. 画像の認識・理解シンポジウム (MIRU), pp.365-372, 2011. (<span class="mention">MIRU2011インタラクティブセッション賞</span>) [<a href="http://www.isi.imi.i.u-tokyo.ac.jp/publication/2011/MIRU2011_ushiku.pdf">pdf</a>]</li>
-<li>牛久祥孝, 原田達也, 國吉康夫. 画像・長文からの潜在空間獲得による画像間類似度の改善. 画像の 認識・理解シンポジウム (MIRU), pp.1153-1160, 2010. [<a href="http://www.isi.imi.i.u-tokyo.ac.jp/publication/2010/MIRU2010_ushiku.pdf">pdf</a>]</li>
-</ol> -->
+# 受賞
+award:
+  - title: "Poster Award at Self-Assembling Systems at ICRA 2020"
+    month: July
+    year: 2020
+  - title: "日本ロボット学会 研究奨励賞"
+    month: 10
+    year: 2018
 
-<h3>国内学会 (査読無し)</h3>
-<ol>
-  <li>インタラクティブなスポーツにおけるプレースタイルの変化 ～卓球の試合における得点パターンを用いた分析～, 本田 秀仁, 楊 明哲, Jiaxin Ma, 橋本 敦史, 田中 一敏, 白砂 大, HCGシンポジウム 2022年12月. </li>
-  <li>チェロ演奏における自動運指および運弓支援機構の検討, 伊東 健太, 上瀧 剛, 田中 一敏, 第135回音楽情報科学研究発表会（夏のシンポジウム）, 2022年9月. </li>
-  <li>媒質を介した遠隔物体の計算能力利用に関する予備的検討、田中 一敏, 南 友菜, 徳留 勇志, 本田 智子, 竹井 邦晴, 中嶋 浩平、日本ロボット学会学術講演会 2020年10月。</li>
-  <li>明示・暗示ダイナミクス変数を用いた多様な環境下での動作学習、室岡 貴之, 濱屋 政志, フォン ドリガルスキ フェリクス, 田中 一敏, 井尻 善久、日本ロボット学会学術講演会 2020年10月 。</li>
-  <li>ガウス過程回帰を用いた卓球ロボットと対戦する人間の打撃結果予測、田中 一敏, 金沢星慶, 中山雅宗, 佐々木勇輝, 八瀬哲志, 國吉康夫、第37回日本ロボット学会学術講演会、2019年9月。</li>
-  <li>空気圧ヒト型ロボットによる生成モデルを用いた即応的な跳躍打撃動作の生成法、田中一敏, 西川鋭, 新山龍馬, 國吉康夫、第35回日本ロボット学会学術講演会、2L1-02、2017年9月。研究奨励賞受賞。</li>
-  <li>跳躍打撃動作を行う構造一体型空気圧ケーブルシリンダロボットの開発、田中一敏, 西川鋭, 陳熙, 新山龍馬, 國吉康夫、日本機械学会ロボティクス・メカトロニクス講演会、2017年5月。
-    <a href="https://note.com/sports_robot/n/n47dc04f8add5">[Blog(Ja)]</a>
-  </li>
-  <li>バドミントンのための高加速・高速な手首を有する人型ロボットアームの開発、森翔太郎, 田中一敏, 西川鋭, 新山龍馬, 國吉康夫、日本機械学会ロボティクス・メカトロニクス講演会、2017年3月。
-    <a href="https://note.com/sports_robot/n/n6aca8a8e4239">[Blog(Ja)]</a>
-  </li>
-  <li>筋骨格ロボットの運動学習のためのHuman-in-the-loop教師あり学習システム、陳熙, 田中一敏, 西川鋭, 新山龍馬, 國吉康夫、計測自動制御学会 システムインテグレーション部門講演会、2016年12月。</li>
-  <li>発達初期の自発運動に伴う全身運動感覚と神経学的構造の関連性、金沢星慶, 山田康智, 田中一敏, 河合昌彦, 國吉康夫、発達神経科学学会、2016年11月。</li>
-  <li>発達初期の自発運動に伴う全身運動感覚と神経学的構造の関連性について、金沢星慶, 山田康智, 田中一敏, 河合昌彦, 國吉康夫、モーターコントロール研究会、2016年9月。</li>
-  <li>ロボットの即応的柔軟物使用のための単純モデルによる動作生成、新井悠介, 若田部亮, 田中一敏, 大村吉幸, 國吉康夫、日本機械学会ロボティクス・メカトロニクス講演会、2015年5月。</li>
-  <li>準備局面の拮抗的筋活動が踏み出しリーチングに与える効果、田中一敏, 西川鋭, 國吉康夫、日本ロボット学会学術講演会、2014年9月。</li>
-  <li>立位での巧緻動作における支持腕の肩外転角度が手先の停止安定性に与える影響、西川鋭, 田中一敏, 國吉康夫、日本バイオメカニクス学会大会、2014年9月。</li>
-  <li>確率的目標状態への遷移時間を最小化する準備動作、田中一敏, 西川鋭, 國吉康夫、日本機械学会ロボティクス・メカトロニクス講演会、2014年6月。</li>
-  <li>敏捷動作に先立つ構えの効果検討、田中一敏, 西川鋭, 國吉康夫、日本ロボット学会学術講演会、2013年9月。</li>
-  <li>敏捷動作生成に先立つ構え生成手法の検証、田中一敏, 西川鋭, 國吉康夫、創発システムシンポジウム、2013年8月。</li>
-  <li>
-    熟練者の運動解析に基づく筋骨格ロボットによる押し動作におけるスキルの再現、田中一敏, 西川鋭, 國吉康夫、日本機械学会ロボティクス・メカトロニクス講演会、2012年9月。
-    <a href="https://note.com/sports_robot/n/n1842ccdafc14">[Blog(Ja)]</a>
-  </li>
-  <li>両眼視差最小化に基づくボトムアップ型注視、田中一敏, 池本周平, 細田耕、日本機械学会ロボティクス・メカトロニクス講演会、2012年6月。</li>
-</ol>
-</div>
+# メディア
+media: 
+  - title: "探究の階段：ロボットとスポーツをする未来／田中一敏 (オムロン サイニックエックス)" 
+    media: テレビ東京 
+    year: 2022
+    month: 4
+    day: 7
+media: 
+  - title: "オムロンの近未来デザイン 革新的技術を創出 (2) = 田中一敏 オムロン・サイニックエックス ロボティクスグループ シニアリサーチャー" 
+    media: 電波新聞
+    year: 2022
+    month: 3
+    day: 10
+media: 
+  - title: "東大、フライングレシーブをするヒト型ロボットを開発 成功率は 80 %" 
+    media: ITmedia NEWS 
+    year: 2021
+    month: 11
+    day: 19
+    url: "https://www.itmedia.co.jp/news/articles/2111/19/news031.html"
+media: 
+  - title: "ほどよく手加減も？スポーツロボットが示す人の可能性" 
+    media: 未来コトハジメ 
+    year: 2021
+    month: 6
+    day: 15
+    url: "https://project.nikkeibp.co.jp/mirakoto/atcl/sports/h_vol25/"
+media: 
+  - title: "日本古来の武道から人と気持ちの通じ合うスポーツロボットを作ることになるまで" 
+    media: InnoUvators 
+    year: 2020
+    month: 3
+    url: "https://innouvators.com/ja/article/10161/"
+media: 
+  - title: "ロボットとの共生は「やわらかさ」から始まる：「ロボット、動物、あらたなる自然との共生」 (1)" 
+    media: WIRED
+    year: 2019
+    month: 3
+    vol: 32
+    url: "https://wired.jp/2019/03/27/future-coexistence-of-robots-animals-and-nature-1/"
 
-<h2>解説</h2>
-<ol>
-  <li>
-    工場現場の組立応用に向けたソフトロボット運動学習, 濵屋 政志, 田中 一敏, フェリクス フォン ドリガルスキ, 井尻 善久, 日本ロボット学会誌, 39(7), 41-44, 2021.
-    <a href="https://researchmap.jp/kazutoshi.tanaka/published_papers/33928397/attachment_file.pdf">[PDF]</a>
-  </li>
-  <li>
-    物体操作を学習するロボットアームの空気圧腱駆動可変剛性手首, 田中一敏, 日本フルードパワーシステム学会 学会誌, 2023年1月.
-  </li>
-</ol>
+# 競争的資金
+grant:
+  - title: 手軽に扱えるヒト型走行跳躍ロボットの実現
+    organization: 文部科学省・日本学術振興会
+    project: 科学研究費助成事業
+    item: 若手研究
+    principal_investigator: "田中 一敏"
+    url: "https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-23K13304/" 
+    year: 2023-2025
+  - title: "インタラクティブなスポーツの行動経済学：卓球を例とした分析フレームワークの構築"
+    organization: 文部科学省・日本学術振興会
+    project: 科学研究費助成事業
+    item: "挑戦的研究 (萌芽)"
+    principal_investigator: "本田 秀仁"
+    co_investigator:
+      - "田中 一敏"
+    year: 2021-2022
+  - title: 連続して跳躍と打撃を行うヒト型ロボットの開発
+    organization: 文部科学省・日本学術振興会
+    project: 科学研究費助成事業
+    item: 若手研究
+    principal_investigator: "田中 一敏"
+    url: "https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-19K14936/" 
+    year: 2019-2021
+  - title: 自律的に創造した遊びを通じて成長する人間型知能の開発
+    organization: "公益財団法人 中山隼雄科学技術文化財団"
+    item: 研究助成B
+    principal_investigator: "田中 一敏"
+  - title: 人間と動きを読み合うヒト型卓球ロボット
+    organization: 総務省
+    project: "戦略的情報通信研究開発推進事業 (SCOPE)"
+    item: "異能vation 破壊的な挑戦部門"
+    principal_investigator: "田中 一敏"
+    url: "https://www.inno.go.jp/result/h30/adoption.php"
+  - title: 深層強化学習を用いた筋骨格系主体の発達的運動学習
+    organization: 栢森情報科学振興財団
+    project: 研究助成事業
+    principal_investigator: "田中 一敏"
+  - title: 新陳代謝を伴う超長時間訓練を通じて多様な運動を学習するソフトロボットの構成法 
+    organization: 文部科学省・日本学術振興会
+    project: 科学研究費助成事業
+    item: 研究活動スタート支援
+    principal_investigator: "田中 一敏"
+    url: https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-17H06575/
+    year: 2017-2018
 
-
-
-<!-- <h2>解説記事・書籍</h2>
-<ol>
-<li>【解説記事】牛久祥孝. 画像に関連した言語生成の取組み. 人工知能学会誌，Vol.34，No.4, pp.483-490，2019. </li>
-<li>【解説記事】牛久祥孝. 画像キャプション生成とその派生タスク. 画像ラボ, Vol.30，No.4, pp.28-31，2019. </li>
-<li>【書籍】編著：中島秀之，浅田稔，橋田浩一，松原仁，山川宏，栗原聡，松尾豊. AI事典 第3版 「言語と画像や音声の相互変換」, 2019.
-<li>【解説記事】牛久祥孝. 画像/動画の高精度キャプション生成技術. 光学. Vol.47, No.12, pp.502-508, 2018.</li>
-<li>【解説記事ゲストエディタ】牛久祥孝. 視覚・言語融合の最前線. 映像情報メディア学会誌. Vol.72, No.9, 2018.</li>
-<li>【解説記事】牛久祥孝. 画像・動画キャプション生成. 映像情報メディア学会誌. Vol.72, No.9, 2018. (<a href="https://www.ite.or.jp/content/journal/message/">ベストオーサー</a>)</li>
-<li>【書籍】米谷竜, 斎藤英雄編著, 池畑諭, 牛久祥孝, 内山英昭, 内海ゆづ子, 小野峻佑, 片岡裕雄, 金崎朝子, 川西康友, 齋藤真樹, 櫻田健, 高橋康輔, 松井勇佑. コンピュータビジョン―広がる要素技術と応用. 未来へつなぐデジタルシリーズ, 37巻, 共立出版, 2018.
-<li>【解説記事】牛久祥孝. 私のブックマーク 視覚と自然言語の融合研究. 人工知能:人工知能学会誌. Vol.32, No.1, pp.136-143, 2016.</li>
-<li>【解説記事】牛久祥孝. ACM Multimedia 参加報告. 情報処理. Vol.56, No.3, p.286, 2015.</li>
-</ol> -->
-
-<div>
-<!-- <h2>基調講演・招待講演・講師</h2> -->
-<h2>講演</h2>
-<ol>
-  <li>運動再構成による準備動作原理の解明、 身体性認知科学と実世界応用に関する若手研究会、2014年8月。</li>
-  <li>計測・シミュレーション・ロボットを用いた人間の運動原理理解、Global Design Lecture & Leading Researcher Cafe、2014年8月。</li>
-  <li>熟練者のスキルを有する筋骨格ロボットによる押し動作の実現、身体性認知科学と実世界応用に関する若手研究会、2012年8月。</li>
-</ol>
-</div>
-
-<div>
-<h2>博士論文</h2>
-<ol>
-  <li>
-    即応的な跳躍打撃動作を行う空気圧ロボットの構成法, 田中 一敏, 東京大学, 2017年3月。
-    <a href="https://drive.google.com/file/d/1pQm5L9XaHz0FbFihHt2ZBe5d6L_3k2v6/view?usp=sharing">[PDF]</a>
-  </li>
-</ol>
-</div>  
-  
-<div>
-<h2>受賞</h2>
-<ol>
-<li>Poster Award at Self-Assembling Systems at ICRA 2020, July 2020.</li>
-<li>日本ロボット学会研究奨励賞、2018年10月。</li>
-</ol>
-</div>
-
-<div>
-<h2>メディア</h2>
-<ol>
-<li>探究の階段：ロボットとスポーツをする未来／田中一敏（オムロン サイニックエックス）、テレビ東京、2022.04.07。</li>
-<li>「オムロンの近未来デザイン 革新的技術を創出 (2) = 田中一敏 オムロン・サイニックエックス ロボティクスグループ シニアリサーチャー」、電波新聞、2022.03.10。</li>
-<li><a href="https://www.itmedia.co.jp/news/articles/2111/19/news031.html">東大、フライングレシーブをするヒト型ロボットを開発　成功率は80％</a>、 ITmedia NEWS、2021.11.19。</li>
-<li><a href="https://project.nikkeibp.co.jp/mirakoto/atcl/sports/h_vol25/">ほどよく手加減も？スポーツロボットが示す人の可能性</a>、 未来コトハジメ、2021.06.15。</li>
-<li><a href="https://innouvators.com/ja/article/10161/">日本古来の武道から人と気持ちの通じ合うスポーツロボットを作ることになるまで</a>、 InnoUvators、2020年03月。</li>
-<li><a href="https://wired.jp/2019/03/27/future-coexistence-of-robots-animals-and-nature-1/">ロボットとの共生は「やわらかさ」から始まる：「ロボット、動物、あらたなる自然との共生」（1）</a>、WIRED、vol.32、2019年03月。</li>
-</ol>
-</div>
-
-<div>
-<h2>競争的資金</h2>
-<ol>
-  <li>インタラクティブなスポーツの行動経済学：卓球を例とした分析フレームワークの構築、文部科学省 科学研究費助成事業・挑戦的研究（萌芽）本田 秀仁（代表）、田中 一敏（分担）</li>
-  <li><a href="https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-19K14936/">連続して跳躍と打撃を行うヒト型ロボットの開発</a>、文部科学省 科学研究費助成事業・若手研究、田中 一敏</li>
-  <li>自律的に創造した遊びを通じて成長する人間型知能の開発、公益財団法人中山隼雄科学技術文化財団 研究助成B、田中 一敏</li>
-  <li><a href="https://www.inno.go.jp/result/h30/adoption.php">人間と動きを読み合うヒト型卓球ロボット</a>、総務省 戦略的情報通信研究開発推進事業（SCOPE） 異能vation 破壊的な挑戦部門、田中 一敏</li>
-  <li>深層強化学習を用いた筋骨格系主体の発達的運動学習、栢森情報科学振興財団 研究助成事業、田中 一敏</li>
-  <li><a href="https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-17H06575/">新陳代謝を伴う超長時間訓練を通じて多様な運動を学習するソフトロボットの構成法</a>、文部科学省・日本学術振興会 研究活動スタート支援、田中 一敏</li>
-</ol>
-</div>
-
-<div>
-<h2>特許</h2>
-<ol>
-  <li>特願 2022-168713、田中 一敏, 谷合 竜典, 片山 想太郎、制御装置、制御方法、及び制御プログラム、2022年10月20日</li>
-  <li>特願 2022-119896、森 翔太郎, 田中 一敏、走行体、2022年7月27日</li>
-  <li>特願 2022-032176、濱屋政志、橋本敦志、田中一敏、石川玲奈、制御装置、制御方法、及びプログラム、2022年3月2日</li>
-  <li>特願 2021-109158、田中一敏、濱屋 政志、米谷 竜、フェリクス フォン ドリガル スキ、井尻 善久、学習及び制御装置、学習装置、制御装置、学習及び制御方法、学習方法、制御方法、学習及び制御プログラム、学習プログラム、及び制御プログラム、2021年6月30日</li>
-  <li>特願 2021-020049、濱屋 政志、田中一敏、オムロン株式会社、ロボットモデルの学習装置、ロボットモデルの機械学習方法、ロボットモデルの機械学習プログラム、ロボット制御装置、ロボット制御方法、及びロボット制御プログラム、2021年2月10日</li>
-  <li>特願 2020-146401、田中一敏、濱屋 政志、米谷 竜、オムロン株式会社、学習装置、学習方法、学習プログラム、制御装置、制御方法、及び制御プログラム、2020年8月31日</li>
-  <li>特願 2020-111710、田中 一敏、オムロン株式会社、ロボットの関節構造、2020年6月29日</li>
-  <li>特願 2020-094782、田中 一敏、井尻 善久、柴田 義也、濱屋 政志、フェリクス フォン ドリガル スキ、中島千智、オムロン株式会社、制御装置、ロボットシステム、およびロボットの制御方法、2020年5月29日</li>
-  <li>特願 2020-094695、田中 一敏、井尻 善久、柴田 義也、濱屋 政志、フェリクス フォン ドリガル スキ、中島千智、オムロン株式会社、ロボットの関節構造、2020年5月29日</li>
-  <li>特願 2020-044422、田中 一敏、井尻 善久、柴田 義也、濱屋 政志、フェリクス フォン ドリガル スキ、中島千智、オムロン株式会社、制御装置、ロボット、学習装置、ロボットシステム、および方法、2020年3月13日</li>
-</ol>
-</div>
-
-</body>
-</html>
+# 特許
+patent:
+  - state: 特願 
+    no: 2023-031440
+    author:
+      - "石川 玲奈"
+      - "矢川 琳翔"
+      - "斎藤 英雄"
+      - "濵屋 政志"
+      - "橋本 敦史"
+      - "田中 一敏"
+    year: 2023
+    month: 3
+    day: 1
+    affiliation: 
+      - オムロン株式会社
+      - 慶應義塾大学
+  - state: 特願 
+    no: 2023-031387
+    author:
+      - "濵屋 政志"
+      - "田中 一敏"
+    year: 2023
+    month: 3
+    day: 1
+    affiliation: オムロン株式会社
+  - state: 特願 
+    no: 2023-025473
+    title: "制御装置、制御方法、及び制御プログラム"
+    author:
+      - "フェリクス フォン ドリガルスキ"
+      - "笠浦 一海"
+      - "クリスティアン ベルトラン エルナンデス"
+      - "濵屋 政志"
+      - "田中 一敏"
+    year: 2023
+    month: 2
+    day: 21
+    affiliation: オムロン株式会社
+  - state: 特願 
+    no: 2022-168713
+    title: "制御装置、制御方法、及び制御プログラム"
+    author:
+      - "田中 一敏"
+      - "谷合 竜典" 
+      - "片山 想太郎"
+    year: 2022
+    month: 10
+    day: 20
+    affiliation: オムロン株式会社
+  - state: 特願 
+    no: 2022-119896
+    title: 走行体
+    author:
+      - "森 翔太郎"
+      - "田中 一敏"
+    year: 2022
+    month: 7
+    day: 27
+    affiliation: オムロン株式会社
+  - state: 特願 
+    no: 2022-032176
+    title: "制御装置、制御方法、及びプログラム"
+    author:
+      - "濱屋 政志"
+      - "橋本 敦志"
+      - "田中 一敏"
+      - "石川 玲奈"
+    year: 2022
+    month: 3
+    day: 2
+    affiliation: オムロン株式会社
+  - state: 特願 
+    no: 2021-109158
+    title: "学習及び制御装置、学習装置、制御装置、学習及び制御方法、学習方法、制御方法、学習及び制御プログラム、学習プログラム、及び制御プログラム"
+    author:
+      - "田中 一敏"
+      - "濱屋 政志"
+      - "米谷 竜"
+      - "フェリックス フォン ドリガルスキ"
+      - "井尻 善久"
+    year: 2021
+    month: 6
+    day: 30
+    affiliation: オムロン株式会社
+  - state: 特願
+    no: 2021-020049
+    title: "ロボットモデルの学習装置、ロボットモデルの機械学習方法、ロボットモデルの機械学習プログラム、ロボット制御装置、ロボット制御方法、及びロボット制御プログラム"
+    author:
+      - "濱屋 政志"
+      - "田中 一敏"
+    year: 2021
+    month: 2
+    day: 10
+    affiliation: オムロン株式会社
+  - state: 特願 
+    no: 2020-146401
+    title: "学習装置、学習方法、学習プログラム、制御装置、制御方法、及び制御プログラム"
+    author:
+      - "田中 一敏"
+      - "濱屋 政志"
+      - "米谷 竜"
+    year: 2020
+    month: 8
+    day: 31
+    affiliation: オムロン株式会社
+  - state: 特願 
+    no: 2020-111710
+    title: ロボットの関節構造
+    author:
+      - "田中 一敏"
+    year: 2020
+    month: 6
+    day: 29
+    affiliation: オムロン株式会社
+  - state: 特願 
+    no: 2020-094782
+    title: 制御装置、ロボットシステム、およびロボットの制御方法
+    author:
+      - "田中 一敏"
+      - "井尻 善久"
+      - "柴田 義也"
+      - "濱屋 政志"
+      - "フェリックス フォン ドリガルスキ"
+      - "中島 千智"
+    year: 2020
+    month: 5
+    day: 29
+    affiliation: オムロン株式会社
+  - state: 特願 
+    no: 2020-094695
+    title: ロボットの関節構造
+    author:
+      - "田中 一敏"
+      - "井尻 善久"
+      - "柴田 義也"
+      - "濱屋 政志"
+      - "フェリックス フォン ドリガルスキ"
+      - "中島 千智"
+    year: 2020
+    month: 5
+    day: 29
+    affiliation: オムロン株式会社
+  - state: 特願 
+    no: 2020-044422
+    title: "制御装置、ロボット、学習装置、ロボットシステム、および方法"
+    author:
+      - "田中 一敏"
+      - "井尻 善久"
+      - "柴田 義也"
+      - "濱屋 政志"
+      - "フェリックス フォン ドリガルスキ"
+      - "中島 千智"
+    year: 2020
+    month: 3
+    day: 13
+    affiliation: オムロン株式会社
+    
