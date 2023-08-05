@@ -82,7 +82,7 @@ article:
       - Yasuo Kuniyoshi
     journal: Proceedings of the National Academy of Sciences
     vol: 120
-    no: 1
+    number: 1
     month: December
     year: 2022
     doi: 10.1073/pnas.2209953120
@@ -97,7 +97,7 @@ article:
       - Takamitsu Matsubara 
     journal: IEEE Robotics and Automation Letters
     vol: 7
-    no: 4
+    number: 4
     page: 11942-11949
     month: October
     year: 2022
@@ -113,7 +113,7 @@ article:
       - Kohei Nakajima 
     journal: IEEE Robotics and Automation Letters
     vol: 7
-    no: 4
+    number: 4
     page: 11244-11251
     month: October
     year: 2022
@@ -142,7 +142,7 @@ article:
       - Kohei Nakajima
     journal: Advanced Intelligent Systems
     vol: 4
-    no: 3
+    number: 3
     page: 2100166
     month: December
     year: 2021
@@ -156,7 +156,7 @@ article:
       - Yasuo Kuniyoshi
     journal:  IEEE Robotics and Automation Letters
     vol: 6
-    no: 3
+    number: 3
     page: 5557-5564
     year: 2021
     publisher: IEEE
@@ -171,7 +171,7 @@ article:
       - Yoshihisa Ijiri
     journal: IEEE Robotics and Automation Letters
     vol: 6
-    no: 2
+    number: 2
     page: 3878-3885
     month: April
     year: 2021
@@ -202,7 +202,7 @@ article:
       - Yasuo Kuniyoshi
     journal: IEEE Robotics and Automation Letters
     vol: 4
-    no: 4
+    number: 4
     page: 3601-3608
     month: October
     year: 2019
@@ -215,7 +215,7 @@ article:
       - Yasuo Kuniyoshi
     journal: IEEE Robotics and Automation Letters
     vol: 3
-    no: 3
+    number: 3
     url: http://www.isi.imi.i.u-tokyo.ac.jp/wp/wp-content/uploads/2018/07/Mori2018_BadmintonArm_RA-L.pdf
     blog_ja: https://note.com/sports_robot/n/n6aca8a8e4239
     year: 2018 
@@ -229,7 +229,7 @@ article:
       - Yasuo Kuniyoshi
     journal: Advanced Robotics
     vol: 28
-    no: 7
+    number: 7
     page: 487-496
     year: 2014
     publisher: "Taylor & Francis"
@@ -387,7 +387,15 @@ conference:
     year: 2020.
     url: "https://www.researchgate.net/publication/344880557_EXI-Net_EXplicitlyImplicitly_Conditioned_Network_for_Multiple_Environment_Sim-to-Real_Transfer"
   - title: Learning Soft Robotic Assembly Strategies from Successful and Failed Demonstration
-    author: Masashi Hamaya, Felix von Drigalski, Takamitsu Matsubara, Kazutoshi Tanaka, Robert Lee, Chisato Nakashima, Yoshiya Shibata, Yoshihisa Ijiri
+    author: 
+      - Masashi Hamaya
+      - Felix von Drigalski
+      - Takamitsu Matsubara
+      - Kazutoshi Tanaka
+      - Robert Lee
+      - Chisato Nakashima
+      - Yoshiya Shibata
+      - Yoshihisa Ijiri
     conference: IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
     page: 8309-8315
     year: 2020
@@ -589,7 +597,7 @@ misc_en:
       - Kazutoshi Tanaka
       - Ryuma Niiyama
       - Yasuo Kuniyoshi
-    arxiv: Arxiv
+    conference: arXiv
     month: September
     year: 2018
     url: https://arxiv.org/abs/1809.06570
@@ -615,12 +623,12 @@ article_ja:
     journal: "日本ロボット学会誌"
     year: 2021
     vol: 39
-    no: 2
+    number: 2
     page: 177-180
     url: "https://researchmap.jp/kazutoshi.tanaka/published_papers/30384164/attachment_file.pdf"
 
 # 国内学会 (査読無し)
-misc_ja:
+conference_ja:
   - title: "定常1方向入力による差動式高頻度大出力駆動メカニズム"
     author: 
       - "高橋 知也"
@@ -849,12 +857,11 @@ commentary:
       - "田中 一敏"
       - "フェリクス フォン ドリガルスキ" 
       - "井尻 善久" 
-    conference: 日本ロボット学会誌
+    journal: 日本ロボット学会誌
     year: 2021
     page: 41-44
     vol: 39
-    no: 7 
-    month: 
+    number: 7 
     url: "https://researchmap.jp/kazutoshi.tanaka/published_papers/33928397/attachment_file.pdf"
     
 # 講演
@@ -877,7 +884,7 @@ lecture:
     month: 8
 
 # 博士論文
-phd_theis:
+phd_thesis:
   - title: 即応的な跳躍打撃動作を行う空気圧ロボットの構成法
     author: "田中 一敏"
     journal: "東京大学"
@@ -901,33 +908,28 @@ media:
     year: 2022
     month: 4
     day: 7
-media: 
   - title: "オムロンの近未来デザイン 革新的技術を創出 (2) = 田中一敏 オムロン・サイニックエックス ロボティクスグループ シニアリサーチャー" 
     media: 電波新聞
     year: 2022
     month: 3
     day: 10
-media: 
   - title: "東大、フライングレシーブをするヒト型ロボットを開発 成功率は 80 %" 
     media: ITmedia NEWS 
     year: 2021
     month: 11
     day: 19
     url: "https://www.itmedia.co.jp/news/articles/2111/19/news031.html"
-media: 
   - title: "ほどよく手加減も？スポーツロボットが示す人の可能性" 
     media: 未来コトハジメ 
     year: 2021
     month: 6
     day: 15
     url: "https://project.nikkeibp.co.jp/mirakoto/atcl/sports/h_vol25/"
-media: 
   - title: "日本古来の武道から人と気持ちの通じ合うスポーツロボットを作ることになるまで" 
     media: InnoUvators 
     year: 2020
     month: 3
     url: "https://innouvators.com/ja/article/10161/"
-media: 
   - title: "ロボットとの共生は「やわらかさ」から始まる：「ロボット、動物、あらたなる自然との共生」 (1)" 
     media: WIRED
     year: 2019
@@ -983,8 +985,8 @@ grant:
 
 # 特許
 patent:
-  - state: 特願 
-    no: 2023-031440
+  - state: 特願
+    number: "2023-031440"
     author:
       - "石川 玲奈"
       - "矢川 琳翔"
@@ -995,11 +997,9 @@ patent:
     year: 2023
     month: 3
     day: 1
-    affiliation: 
-      - オムロン株式会社
-      - 慶應義塾大学
+    affiliation: "オムロン株式会社, 慶應義塾大学"
   - state: 特願 
-    no: 2023-031387
+    number: 2023-031387
     author:
       - "濵屋 政志"
       - "田中 一敏"
@@ -1008,7 +1008,7 @@ patent:
     day: 1
     affiliation: オムロン株式会社
   - state: 特願 
-    no: 2023-025473
+    number: 2023-025473
     title: "制御装置、制御方法、及び制御プログラム"
     author:
       - "フェリクス フォン ドリガルスキ"
@@ -1021,7 +1021,7 @@ patent:
     day: 21
     affiliation: オムロン株式会社
   - state: 特願 
-    no: 2022-168713
+    number: 2022-168713
     title: "制御装置、制御方法、及び制御プログラム"
     author:
       - "田中 一敏"
@@ -1032,7 +1032,7 @@ patent:
     day: 20
     affiliation: オムロン株式会社
   - state: 特願 
-    no: 2022-119896
+    number: 2022-119896
     title: 走行体
     author:
       - "森 翔太郎"
@@ -1042,7 +1042,7 @@ patent:
     day: 27
     affiliation: オムロン株式会社
   - state: 特願 
-    no: 2022-032176
+    number: 2022-032176
     title: "制御装置、制御方法、及びプログラム"
     author:
       - "濱屋 政志"
@@ -1054,7 +1054,7 @@ patent:
     day: 2
     affiliation: オムロン株式会社
   - state: 特願 
-    no: 2021-109158
+    number: 2021-109158
     title: "学習及び制御装置、学習装置、制御装置、学習及び制御方法、学習方法、制御方法、学習及び制御プログラム、学習プログラム、及び制御プログラム"
     author:
       - "田中 一敏"
@@ -1067,7 +1067,7 @@ patent:
     day: 30
     affiliation: オムロン株式会社
   - state: 特願
-    no: 2021-020049
+    number: 2021-020049
     title: "ロボットモデルの学習装置、ロボットモデルの機械学習方法、ロボットモデルの機械学習プログラム、ロボット制御装置、ロボット制御方法、及びロボット制御プログラム"
     author:
       - "濱屋 政志"
@@ -1077,7 +1077,7 @@ patent:
     day: 10
     affiliation: オムロン株式会社
   - state: 特願 
-    no: 2020-146401
+    number: 2020-146401
     title: "学習装置、学習方法、学習プログラム、制御装置、制御方法、及び制御プログラム"
     author:
       - "田中 一敏"
@@ -1088,7 +1088,7 @@ patent:
     day: 31
     affiliation: オムロン株式会社
   - state: 特願 
-    no: 2020-111710
+    number: 2020-111710
     title: ロボットの関節構造
     author:
       - "田中 一敏"
@@ -1097,7 +1097,7 @@ patent:
     day: 29
     affiliation: オムロン株式会社
   - state: 特願 
-    no: 2020-094782
+    number: 2020-094782
     title: 制御装置、ロボットシステム、およびロボットの制御方法
     author:
       - "田中 一敏"
@@ -1111,7 +1111,7 @@ patent:
     day: 29
     affiliation: オムロン株式会社
   - state: 特願 
-    no: 2020-094695
+    number: 2020-094695
     title: ロボットの関節構造
     author:
       - "田中 一敏"
@@ -1125,7 +1125,7 @@ patent:
     day: 29
     affiliation: オムロン株式会社
   - state: 特願 
-    no: 2020-044422
+    number: 2020-044422
     title: "制御装置、ロボット、学習装置、ロボットシステム、および方法"
     author:
       - "田中 一敏"
