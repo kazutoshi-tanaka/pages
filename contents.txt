@@ -1,57 +1,12 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <!-- Global site tag (gtag.js) - Google Analytics -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-172963756-1"></script>
-  <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
-
-    gtag('config', 'UA-172963756-1');
-  </script>
-
-  <title>Kazutoshi Tanaka's homepage</title>
-  <meta charset="UTF8">
-  <!-- <link rel="stylesheet" href="new.css"> -->
-    <!-- <script async src="https://www.googletagmanager.com/gtag/js?id=UA-125103456-1"></script>
-  <script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'UA-125103456-1');
-</script> -->
-<!-- <link rel="stylesheet" href="style.css">
-<link rel="stylesheet" href="ushiku.css">
-<link rel="shortcut icon" href="/assets/favicon.ico" type="image/vnd.microsoft.icon"/>
-<link rel="icon" href="/assets/favicon.ico" type="image/vnd.microsoft.icon"/>
- -->
-<link rel="stylesheet" href="https://fonts.xz.style/serve/inter.css">
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@exampledev/new.css@1.1.2/new.min.css">
-</head>
-<body>
-
-<div><a href="index_eng.html">English</a>/Japanese</div>
-
 <div>
-  <h1>田中 一敏</h1>
-  <p>
-    <img src="tanaka_pic.jpg" width="200">
-  </p>
-  <p>
-    生物のように賢いヒト型ロボットを作ります。
-  </p>
-  <p>
-    <a href="https://twitter.com/sports_robots">Twitter</a>/
-    <a href="https://note.com/sports_robot">note</a>/
-    <a href="https://jp.linkedin.com/in/sportsrobots">Linkedin</a>/
-    <a href="https://researchmap.jp/kazutoshi.tanaka">researchmap</a>/
-    <a href="https://scholar.google.co.jp/citations?user=gUSlTmsAAAAJ&hl=ja">Google Scholar</a>/
-    <a href="https://www.researchgate.net/profile/Kazutoshi_Tanaka">ReasearchGate</a>  </p>
-  <p>
-    (Mail) kazutoshi.tanaka(at)sinicx.com
-  </p>
+<h2>リンク・連絡先</h2>
+  <a href="https://twitter.com/sports_robots">Twitter</a>/
+  <a href="https://note.com/sports_robot">note</a>/
+  <a href="https://jp.linkedin.com/in/sportsrobots">Linkedin</a>/
+  <a href="https://researchmap.jp/kazutoshi.tanaka">researchmap</a>/
+  <a href="https://scholar.google.co.jp/citations?user=gUSlTmsAAAAJ&hl=ja">Google Scholar</a>/
+  <a href="https://www.researchgate.net/profile/Kazutoshi_Tanaka">ReasearchGate</a>/
+  (Mail) kazutoshi.tanaka(at)sinicx.com
 </div>
 
 <div>
@@ -252,8 +207,3 @@
   <li>2013年4月-2016年3月 身体性認知科学と実世界応用に関する若手研究会 (ECSRA) 運営委員</li>
 </ol>
 </div>
-
-
-
-</body>
-</html>

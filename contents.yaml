@@ -571,7 +571,7 @@ conference:
       - Kazutoshi Tanaka
       - Satoshi Nishikawa
       - Yasuo Kuniyoshi
-    conference: International Conference on Advanced Robotics (ICAR
+    conference: International Conference on Advanced Robotics (ICAR)
     city: Montevideo
     country: Uruguay
     year: 2013
@@ -893,12 +893,20 @@ phd_thesis:
     url: "https://drive.google.com/file/d/1pQm5L9XaHz0FbFihHt2ZBe5d6L_3k2v6/view?usp=sharing"
 
 # 受賞
-award:
+award_ja:
   - title: "Poster Award at Self-Assembling Systems at ICRA 2020"
-    month: July
+    month: 7
     year: 2020
   - title: "日本ロボット学会 研究奨励賞"
     month: 10
+    year: 2018
+
+award_en:
+  - title: "Poster Award at Self-Assembling Systems at ICRA 2020"
+    month: July
+    year: 2020
+  - title: "The Robotics Society of Japan Young Investigation Excellence Award"
+    month: October
     year: 2018
 
 # メディア
