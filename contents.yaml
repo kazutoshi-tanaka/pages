@@ -249,6 +249,7 @@ conference:
     doi: 10.1109/ICRA48891.2023.10160995
     url: "https://www.researchgate.net/publication/370658923_Twist_Snake_Plastic_table-top_cable-driven_robotic_arm_with_all_motors_located_at_the_base_link"
     video: https://youtu.be/sjfoP8uSgYY
+    hp: https://omron-sinicx.github.io/twistsnake/
   - title: "Learning Food Picking without Food: Fracture Anticipation by Breaking Reusable Fragile Objects" 
     author: 
       - Rinto Yagawa
@@ -263,6 +264,7 @@ conference:
     year: 2023
     page: 917-923
     doi: 10.1109/ICRA48891.2023.10160405
+    hp: https://omron-sinicx.github.io/mgrasp/
   - title: Robotic Powder Grinding with a Soft Jig for Laboratory Automation in Material Science
     author:
       - Yusaku Nakajima
@@ -291,6 +293,7 @@ conference:
     page: 203-210 
     doi: 10.1109/IROS47612.2022.9981498
     url: https://arxiv.org/abs/2210.13908
+    hp: https://omron-sinicx.github.io/lcqp/
   - title: Iterative Backpropagation Disturbance Observer with Forward Dynamics Model
     author:
       - Takayuki Murooka
@@ -321,6 +324,7 @@ conference:
     page: 958-964
     doi: 10.1109/IROS51168.2021.9636790
     url: "https://www.researchgate.net/publication/353540358_Learning_Robotic_Contact_Juggling"
+    hp: https://kazutoshi-tanaka.github.io/pages/smmrl/
   - title: Precise Multi-Modal In-Hand Pose Estimation using Low-Precision Sensors for Robotic Assembly
     author: 
       - Felix von Drigalski
